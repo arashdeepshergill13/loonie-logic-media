@@ -1,28 +1,34 @@
 # Research briefing
 
-Last updated: 2026-11-01 (daily research run). Re-check every figure on its official source before it goes into a Short.
+Last updated: 2026-11-02 (daily research run). Re-check every figure on its official source before it goes into a Short.
 
 ## Timely Short ideas
 
-Four verified angles are worth making right now; none was added to reach five. Two other timely topics already have Shorts (see the end of this section).
+Five verified angles, ranked by urgency and reach. The fifth is weak and only for an empty queue.
 
 1. **Rates are turning up again.**
    - Where each bank stands: the Bank of Canada hiked to 2.5% (Oct 28), the RBI hiked to 5.5% (Oct 7), and the Fed held at 3.75-4% with two votes for a hike (Oct 28).
-   - The Bank of England decides on **Nov 5** and is at 3.75% now. **Make this after Nov 5**, once the BoE result is confirmed on bankofengland.co.uk.
+   - The Bank of England decides on **Nov 5** and is at 3.75% now (rechecked Nov 2). **Make this after Nov 5**, once the BoE result is confirmed on bankofengland.co.uk.
    - The Short covers what this does to variable-rate debt and savings rates in each country.
    
-   File: `research/2026-10-30.md` (rechecked `2026-11-01.md`). **Expires 2026-12-01.**
-2. **Your intro savings rate has an end date.**
+   File: `research/2026-10-30.md` (rechecked `2026-11-02.md`). **Expires 2026-12-01.**
+2. **"15% off your Aeroplan award" is not 15% off the ticket (Canada and US).**
+   - Primary Aeroplan co-brand cardholders get 15% off the points for eligible Air Canada flight rewards: a promo in Canada now (to Jan 11, 2027), a permanent card benefit from Jan 12, 2027; already a benefit on the US Chase Aeroplan card.
+   - It applies to the base fare only. Taxes, fees and surcharges aren't discounted, and additional cardholders don't get it.
+   - Worked math with a real award price pulled on production day. Name Canada and the US on screen.
+   
+   File: `research/2026-11-02.md`. **Expires 2027-02-28** (recheck terms before use).
+3. **Your intro savings rate has an end date.**
    - Revolut UK's 5% boosted rate, on balances up to £25,000, ends Dec 4, 2026. Standard-plan savers then drop to 2.9%.
    - On £25,000, that's about £1,250 a year falling to about £725.
    
-   Worked math on a promo-rate cliff, with the UK named on screen; the lesson applies in any country. File: `research/2026-10-31.md`. **Expires 2026-12-03.**
-3. **UK cash ISA limit drops to £12,000 on 6 April 2027** for under-65s.
+   Note `videos/revolut-promo-rate-cliff.mp4` now exists, so this is made; only use a clearly different angle. File: `research/2026-10-31.md`. **Expires 2026-12-03.**
+4. **UK cash ISA limit drops to £12,000 on 6 April 2027** for under-65s.
    - The overall ISA allowance stays at £20,000.
    - Interest on cash held in stocks and shares ISAs will face a 22% charge.
    
    UK only. File: `research/2026-10-30.md`. **Expires 2027-04-05.**
-4. **(Weak, US only) Southwest now gives status for card spending.**
+5. **(Weak, US only) Southwest now gives status for card spending.**
    - From Jan 1, 2027, every Rapid Rewards card earns 1 tier qualifying point per $1.
    - New tiers arrive the same day: Silver, Gold and a new Platinum.
    - Companion Pass qualifying points are retired after Dec 31, 2026.
@@ -31,12 +37,20 @@ Four verified angles are worth making right now; none was added to reach five. T
 
 Already made, so don't repeat these unless the angle is clearly different:
 - **Aeroplan expiry on Nov 30** (`videos/aeroplan-expiry-nov-30.mp4`).
+- **Revolut UK promo-rate cliff** (`videos/revolut-promo-rate-cliff.mp4`).
 - **Amex splitting points by card** (`videos/amex-points-split-by-card.mp4`). A follow-up for India would lead with Nov 11, when the outages start, as the real deadline (`research/2026-11-01.md`). The India angle expires 2026-11-10.
 
 ## Current facts
 
 Newest first. "Checked" is the date an official page last confirmed the item.
 
+- **Aeroplan co-brand cards (Canada and US):**
+  - FLY15OFF: 15% off the points on the base fare of eligible Air Canada flight rewards, primary cardholders only; not on taxes, fees or surcharges. Canada: promo Sep 10, 2026 to Jan 11, 2027 (travel through Dec 31, 2027), then a permanent benefit from Jan 12, 2027. US Chase Aeroplan card: a benefit since Sep 10, 2026.
+  - Canada AC Wallet credit from Jan 15, 2027: Premium $50 twice a year (up to $100), Core $25 twice a year (up to $50), paid AC flights only.
+  - TD fees from Jan 25, 2027: Aeroplan Visa Infinite $139 to $159; Visa Infinite Privilege $599 to $699; Visa Platinum unchanged. Amex Aeroplan Business Reserve $599 to $799 from Jan 12, 2027.
+  - US Chase Aeroplan card: $195 USD fee, automatic 25K status, up to $100 USD a year in AC credits.
+  
+  Sources: https://www.aircanada.com/ca/en/aco/home/aeroplan/newcardbenefits.html · https://www.td.com/ca/en/personal-banking/products/credit-cards/aeroplan/aeroplan-visa-infinite-card-faq · https://www.td.com/ca/en/personal-banking/products/credit-cards/aeroplan/aeroplan-visa-infinite-privilege-card-faq · https://www.americanexpress.com/en-ca/campaigns/credit-cards/aeroplan-business-reserve-card/product-changes/ · https://media.chase.com/news/the-chase-air-canada-aeroplan-credit-card-refresh · checked 2026-11-02
 - **Southwest Rapid Rewards 2027 (US):**
   - Companion Pass qualifying points are retired after Dec 31, 2026.
   - From Jan 1, 2027, the tiers are Silver (35k tier qualifying points or 25 flights), Gold (65k or 50) and Platinum (140k or 100), and all Rapid Rewards cards earn 1 tier qualifying point per $1.
@@ -59,8 +73,8 @@ Newest first. "Checked" is the date an official page last confirmed the item.
   
   Source: https://www.americanexpress.com/en-in/support/digital/consumer-experience-updates/ · checked 2026-11-01
 - **IRS 2026 limits are still the latest:** 401(k) elective deferral $24,500, IRA $7,500. The 2027 figures aren't out yet. Source: https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions · checked 2026-11-01
-- **Bank of England Bank Rate 3.75%.** It was held at the Jun 18, Jul 30 and Sep 17, 2026 meetings. Next decision Nov 5. Source: https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate · checked 2026-11-01
-- **Wealthsimple product event Nov 5, 2026, 12 p.m. ET.** The teasers mention "a new way to talk to your money", first-in-Canada launches and trader tools, but no products are named. Source: https://www.wealthsimple.com/en-ca/presents/something-good · checked 2026-11-01
+- **Bank of England Bank Rate 3.75%.** It was held at the Jun 18, Jul 30 and Sep 17, 2026 meetings. Next decision Nov 5. Source: https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate · checked 2026-11-02
+- **Wealthsimple product event Nov 5, 2026, 12 p.m. ET.** The teasers mention "a new way to talk to your money", first-in-Canada launches and trader tools, but no products are named. Source: https://www.wealthsimple.com/en-ca/presents/something-good · checked 2026-11-02
 - **Delta SkyMiles Amex (US) personal card offers end Nov 4, 2026:**
   - Gold: up to 80k miles plus a $250 credit after $3k spent
   - Platinum: up to 90k plus $300 after $4k
@@ -90,6 +104,7 @@ Newest first. "Checked" is the date an official page last confirmed the item.
 
 ## Ended or changed this week
 
+- **Aeroplan card fees are rising in Canada** (TD Visa Infinite $159, Privilege $699 from Jan 25, 2027; Amex Business Reserve $799 from Jan 12, 2027). Don't quote the old fees for anything after those dates. The Amex personal Aeroplan Card ($150) and Aeroplan Reserve ($799) figures are leads only.
 - **Amex India: the real deadline is earlier than Nov 15.** Service outages run Nov 11-18, and online cancellation is unavailable Nov 12-15.
 - **Transfer bonuses that ended Oct 31** (lead, unverified): Capital One to British Airways 20% and Amex MR to Flying Blue 25%. Treat both as gone.
 - **Transfer bonuses still running are leads only** (Amex MR to Marriott 35% until Dec 10; Capital One to Virgin Atlantic 30% until Nov 20; Citi to Cathay 10% until Nov 14). They're unverified, so don't script them.
