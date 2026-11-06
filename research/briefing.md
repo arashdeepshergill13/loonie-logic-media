@@ -1,52 +1,70 @@
 # Research briefing
 
-Last updated: 2026-11-04 (daily research run). Re-check every figure on its official source before it goes into a Short.
+Last updated: 2026-11-06 (daily research run). Re-check every figure on its official source before it goes into a Short.
 
 ## Timely Short ideas
 
-Five verified angles, ranked by urgency and reach. Numbers 3, 4 and 5 are weak and only for an empty queue.
+Five verified angles, ranked by urgency and reach. Only number 1 is strong; numbers 2 to 5 are for when the queue is empty.
 
-1. **Rates are turning up again.**
-   - Where each bank stands: the Bank of Canada hiked to 2.5% (Oct 28), the RBI hiked to 5.5% (Oct 7), and the Fed held at 3.75-4% with two votes for a hike (Oct 28).
-   - The Bank of England decides on **Nov 5** and is at 3.75% now (rechecked Nov 4). **Make this after Nov 5**, once the BoE result is confirmed on bankofengland.co.uk.
-   - The Short covers what this does to variable-rate debt and savings rates in each country.
+1. **Rates are turning up again: ready to make now.**
+   - All four central banks are now at or leaning toward higher rates. The Bank of England hiked to 4% (Nov 5), the Bank of Canada to 2.5% (Oct 28) and the RBI to 5.5% (Oct 7). The Fed held at 3.75-4% with two votes for a hike (Oct 28).
+   - The Short covers what a 0.25-point rise adds to variable-rate debt, and why savings rates don't rise automatically: check your own rate.
+   - The BoE vote split (reported 8-1) is a lead, so don't state it.
+   - Name each country on screen next to its rate.
    
-   File: `research/2026-10-30.md` (rechecked `2026-11-04.md`). **Expires 2026-12-01.**
-2. **UK cash ISA limit drops to £12,000 on 6 April 2027** for under-65s.
-   - The overall ISA allowance stays at £20,000.
-   - Interest on cash held in stocks and shares ISAs will face a 22% charge.
+   Files: `research/2026-11-06.md` (BoE), `research/2026-10-30.md` (others). **Expires 2026-12-01**, before the RBI (Dec 2-4), Fed (Dec 8-9) and Bank of Canada (Dec 9) decide again.
+2. **Two miles-expiry clocks (worldwide).**
+   - Emirates Skywards miles earned from 1 June 2027 expire three years after the flight or partner activity date, rounded to month-end. Activity doesn't extend them.
+   - Aeroplan instead uses an 18-month inactivity rule after its pause ends Nov 30.
+   - `videos/aeroplan-expiry-nov-30.mp4` already covers the Aeroplan date, so lead with the contrast ("activity resets one clock but not the other").
    
-   UK only. File: `research/2026-10-30.md`. **Expires 2027-04-05.**
+   File: `research/2026-11-06.md`. **Expires 2027-05-31.**
 3. **(Weak, UK only) The BA Premium Plus break-even.**
-   - The British Airways Amex Premium Plus (UK) now earns 1.25 Avios per £1, with a £300 fee and the Companion Voucher at £15,000 of spend a year.
-   - On £15,000 a year that's 18,750 Avios. Reported (lead): it was 1.5 per £1 (22,500) until Oct 7, 2026, so don't state the old rate as fact.
-   - Fits the idea bank's "premium annual-fee cards: the break-even math". Say "in the UK" on screen and research Avios values on production day.
+   - The British Airways Amex Premium Plus (UK) earns 1.25 Avios per £1, with a £300 fee and the Companion Voucher at £15,000 of spend a year.
+   - On £15,000 a year that's 18,750 Avios. The old 1.5 rate is a lead only.
+   - Say "in the UK" on screen and research Avios values on production day.
    
    File: `research/2026-11-04.md`. **Expires 2027-01-31.**
-4. **(Weak, already made) Your intro savings rate has an end date.**
-   - Revolut UK's 5% boosted rate, on balances up to £25,000, ends Dec 4, 2026. Standard-plan savers then drop to 2.9%.
-   
-   `videos/revolut-promo-rate-cliff.mp4` exists; only use a clearly different angle. File: `research/2026-10-31.md`. **Expires 2026-12-03.**
-5. **(Weak, US only) Southwest now gives status for card spending.**
-   - From Jan 1, 2027, every Rapid Rewards card earns 1 tier qualifying point per $1.
-   - New tiers arrive the same day: Silver, Gold and a new Platinum.
+4. **(Weak, US only) Southwest now gives status for card spending.**
+   - From Jan 1, 2027, every Rapid Rewards card earns 1 tier qualifying point per $1, and new Silver, Gold and Platinum tiers arrive.
    - Companion Pass qualifying points are retired after Dec 31, 2026.
+   - Say "in the US" on screen.
    
-   Make it only if the queue is empty, and say "in the US" on screen. File: `research/2026-11-01.md`. **Expires 2026-12-31.**
-
-After Nov 5, the next run records the Bank of England result and anything Wealthsimple launches; either may push a new idea to the top.
+   File: `research/2026-11-01.md`. **Expires 2026-12-31.**
+5. **(Weak, Canada only) Is a 2.5% savings rate actually beating anything?**
+   - Wealthsimple launched savings accounts at 2.5% (Nov 5), the same as the Bank of Canada policy rate.
+   - Make it only after checking the product's terms page and the latest Canadian CPI on production day. Don't feature the leveraged or crypto products from the same event.
+   
+   File: `research/2026-11-06.md`. **Expires 2026-12-09.**
 
 Already made, so don't repeat these unless the angle is clearly different:
+- **UK cash ISA limit cut** (`videos/uk-cash-isa-limit-cut.mp4`).
+- **Aeroplan stopovers** (`videos/aeroplan-stopover-two-trips.mp4`).
 - **Foreign transaction fees on a trip** (`videos/foreign-fee-trip-math.mp4`). The IDFC FIRST and ICICI facts below stay usable as supporting material.
 - **Aeroplan 15% off the base fare** (`videos/aeroplan-15-off-base-fare.mp4`).
 - **Aeroplan expiry on Nov 30** (`videos/aeroplan-expiry-nov-30.mp4`).
-- **Revolut UK promo-rate cliff** (`videos/revolut-promo-rate-cliff.mp4`).
-- **Amex splitting points by card** (`videos/amex-points-split-by-card.mp4`). A follow-up for India would lead with Nov 11, when the outages start, as the real deadline (`research/2026-11-01.md`). The India angle expires 2026-11-10.
+- **Revolut UK promo-rate cliff, ending Dec 4** (`videos/revolut-promo-rate-cliff.mp4`).
+- **Amex splitting points by card** (`videos/amex-points-split-by-card.mp4`). The India deadline angle expires 2026-11-10.
 
 ## Current facts
 
 Newest first. "Checked" is the date an official page last confirmed the item.
 
+- **Bank of England Bank Rate 4%.** It was raised 0.25 points from 3.75% on 5 Nov 2026, after holds in Jun, Jul and Sep. Next decision 17 Dec 2026. The vote split and guidance are leads only. Source: https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate · checked 2026-11-06
+- **Wealthsimple (Canada), announced Nov 5, 2026:**
+  - Available now: 2.5% savings accounts; kids and teens accounts (up to 2.25%); Wealthsimple Pay (up to $100,000 instantly between users); $0-commission CAD options; direct indexing; a portfolio line of credit.
+  - Coming this month: perpetual futures. Late 2026: CADD stablecoin (3.25% APY in rewards) and virtual cards. Early 2027: 24/7 US trading, an AI assistant and a 1% business credit card.
+  - Product terms weren't checked.
+  
+  Source: https://www.wealthsimple.com/en-ca/presents/something-good · checked 2026-11-06
+- **Emirates Skywards expiry from 1 June 2027:** miles earned from that date are valid three years from the flight or partner activity date, rounded to month-end (now: three years, rounded to the birth month). Existing miles aren't affected. Source: https://www.emirates.com/ch/english/skywards/emirates-skywards-program-updates/ · checked 2026-11-06
+- **Amex India Membership Rewards and cards:**
+  - Services are disrupted Nov 11-18; online cancellation is down Nov 12-15 (helpline and app chat still work); MR updates are down Nov 12-16.
+  - From Nov 15, 2026, points are tracked per Basic Card, split by balance; transfers between your own cards end permanently; the MRCC's 50% fee waiver (₹90,000 spend) ends; late fees are ₹500-₹1,250 based on the Total Amount Due; milestones count by posting date.
+  - Supplementary card applications have been paused since Oct 27.
+  
+  Source: https://www.americanexpress.com/en-in/support/digital/consumer-experience-updates/ · checked 2026-11-06
+- **IRS 2026 limits are still the latest:** 401(k) elective deferral $24,500, IRA $7,500. The 2027 figures aren't out yet. Source: https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions · checked 2026-11-06
 - **British Airways American Express Premium Plus (UK):** 1.25 Avios per £1 on purchases, no separate BA-spend rate listed, £300 annual fee, Companion Voucher after £15,000 of spend per cardmembership year. The Oct 7, 2026 cut from 1.5 per £1 and the April 2027 tier-point changes are leads only. Source: https://www.americanexpress.com/uk/credit-cards/ba-premium-plus-credit-card/ · checked 2026-11-04
 
 - **IDFC FIRST Bank (India): zero forex markup on all credit cards** since Sep 9, 2026 (the bank says this saves up to 3.5%). Whether international spending still earns reward points after Oct 26 is unresolved: the bank's notices conflict, so don't state it. Sources: https://www.idfcfirst.bank.in/content/dam/idfcfirstbank/pdf/credit-card/Credit-Card-Communication1-Sep-26.pdf · https://www.idfcfirst.bank.in/content/dam/idfcfirstbank/pdf/credit-card/Credit-Card-Communication-13-Sep-26.pdf · checked 2026-11-03
@@ -71,16 +89,6 @@ Newest first. "Checked" is the date an official page last confirmed the item.
   - 0.99% MakeMyTrip ICICI Travel card
   
   Source: https://www.icici.bank.in/personal-banking/cards/credit-card/upcoming-changes-features-and-charges · checked 2026-11-01
-- **Amex India Membership Rewards and cards:**
-  - From Nov 15, 2026, points are kept separately per Basic Card, transfers between your own cards end permanently, and the MRCC's 50% fee waiver (for ₹90,000 or more in spending) ends.
-  - Also from Nov 15, late fees are ₹500-₹1,250 based on the Total Amount Due, and milestones count by posting date.
-  - Services are disrupted Nov 11-18 (online cancellation Nov 12-15).
-  - Supplementary card applications have been paused since Oct 27; pending ones must be completed by Nov 3.
-  
-  Source: https://www.americanexpress.com/en-in/support/digital/consumer-experience-updates/ · checked 2026-11-01
-- **IRS 2026 limits are still the latest:** 401(k) elective deferral $24,500, IRA $7,500. The 2027 figures aren't out yet. Source: https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions · checked 2026-11-03
-- **Bank of England Bank Rate 3.75%.** It was held at the Jun 18, Jul 30 and Sep 17, 2026 meetings. Next decision Nov 5. Source: https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate · checked 2026-11-04
-- **Wealthsimple product event Nov 5, 2026, 12 p.m. ET.** The teasers mention "a new way to talk to your money", first-in-Canada launches and trader tools, but no products are named. Source: https://www.wealthsimple.com/en-ca/presents/something-good · checked 2026-11-04
 - **Revolut UK boosted savings:**
   - 5% AER (variable) on up to £25,000, for customers who signed up between Jun 5 and Aug 4, 2026.
   - It ends Dec 4, 2026. After that the plan base rate applies: 2.9% on Standard, up to 4% on Ultra.
@@ -104,16 +112,20 @@ Newest first. "Checked" is the date an official page last confirmed the item.
 
 ## Ended or changed this week
 
+- **Bank of England is now 4%, not 3.75%** (hike on Nov 5). Don't use 3.75% for anything current.
+- **Wealthsimple's event has happened**, so the "no products named" teaser note is gone. Use the product list above, and check terms first.
+- **Delta Amex US personal and business card offers ended Nov 4.**
 - **BA Amex Premium Plus (UK) earns 1.25 Avios per £1**, not 1.5, and has no 3x on BA spend (reported cut on Oct 7). Don't quote the old rates.
-- **Delta Amex US personal and business card offers end today (Nov 4).**
-- **Aeroplan card fees are rising in Canada** (TD Visa Infinite $159, Privilege $699 from Jan 25, 2027; Amex Business Reserve $799 from Jan 12, 2027). Don't quote the old fees for anything after those dates. The Amex personal Aeroplan Card ($150) and Aeroplan Reserve ($799) figures are leads only.
-- **Amex India: the real deadline is earlier than Nov 15.** Service outages run Nov 11-18, and online cancellation is unavailable Nov 12-15.
-- **Transfer bonuses that ended Oct 31** (lead, unverified): Capital One to British Airways 20% and Amex MR to Flying Blue 25%. Treat both as gone.
-- **Transfer bonuses still running are leads only** (Amex MR to Marriott 35% until Dec 10; Capital One to Virgin Atlantic 30% until Nov 20; Citi to Cathay 10% until Nov 14; Rove to JetBlue 20% until Nov 14, US). They're unverified, so don't script them.
-- **Air Canada 5x Aeroplan on November flights:** registration and booking closed Sep 3. It isn't a live offer.
+- **Aeroplan card fees are rising in Canada** (TD Visa Infinite $159, Privilege $699 from Jan 25, 2027; Amex Business Reserve $799 from Jan 12, 2027). Don't quote the old fees for anything after those dates.
+- **Amex India: the real deadline is earlier than Nov 15.** Outages run Nov 11-18, and online cancellation is unavailable Nov 12-15.
+- **Transfer bonuses are leads only, so don't script them:**
+  - Chase UR to BA, Iberia and Aer Lingus Avios 30% until Dec 1; Chase to IHG 80% and Wyndham 30% until Dec 3.
+  - Capital One to Flying Blue 20% until Nov 30; Capital One to Virgin Atlantic 30% until Nov 20.
+  - Amex MR to Marriott 35% until Dec 10; Citi to Cathay 10% until Nov 14.
+  - The Oct 31 bonuses (Capital One to BA 20%, Amex MR to Flying Blue 25%) are over.
+- **Flying Blue November Promo Rewards** (25% off, book by Nov 30): lead only; the official page wasn't found.
 - **Bank of Canada moved from hold to hike** (2.25% to 2.5% on Oct 28). Don't use 2.25% anywhere.
-- **Qatar Airways Oct-Nov Privilege Deals:** the booking window (Oct 5-14) has closed.
 - **Chase Sapphire Preferred 1:1 Hyatt transfers** for accounts opened before Jun 15, 2026 ended Sep 30, 2026.
 - **Not yet published:** the 2027 TFSA limit (CRA) and the 2027 401(k) and IRA limits (IRS). Don't use the forecasts ($7,500 TFSA, $25,500 401(k)).
-- **ICICI MakeMyTrip 0% forex from Nov 10** is unconfirmed. The official page still shows 0.99% (rechecked Nov 3), so don't use 0%.
+- **ICICI MakeMyTrip 0% forex from Nov 10** is unconfirmed. The official page still showed 0.99% on Nov 3, so don't use 0%.
 - **IDFC FIRST international reward points:** some cards reportedly stopped earning points abroad from Oct 26, 2026, but the bank's notices conflict. Use only the zero-markup fact.
