@@ -1,42 +1,41 @@
 # Research briefing
 
-Last updated: 2026-11-08 (daily research run). Re-check every figure on its official source before it goes into a Short.
+Last updated: 2026-11-09 (daily research run). Re-check every figure on its official source before it goes into a Short.
 
 ## Timely Short ideas
 
-Five verified angles, ranked by urgency and reach. The real-return idea is the only strong one; the rest are for when the queue is empty.
+Five verified angles, ranked by urgency and reach. All are weak or single-country now that the real-return Short is made; use them when the queue is empty, and watch the October CPI releases (US Nov 10, Canada Nov 16, UK Nov 18) and the December rate decisions for the next strong multi-country angle.
 
-1. **Is your savings rate beating inflation? (Canada, US, UK)**
-   - September inflation is now confirmed on official pages: Canada 3.1%, US 3.7% (CPI-U), UK 3.5%.
-   - Against them: Canada's policy rate and Wealthsimple's flat savings rate are both 2.5% (about -0.6% a year after inflation, before tax); US fed funds 3.75-4%; UK Bank Rate 4%. Use a savings-account rate as the worked example and the policy rates only as context. Name the country on screen for every figure.
-   - Wealthsimple savings is CIPF-protected, not CDIC; say it carefully or leave it out. Don't feature its leveraged or crypto products.
-   - All three CPI figures are replaced soon: US Nov 10, Canada Nov 16, UK Nov 18. Recheck the latest release on production day.
-   
-   Files: `research/2026-11-08.md`, `research/2026-11-07.md`. **Expires 2026-11-18** (after that, rebuild it on the October figures).
-2. **(Weak, UK only) The BA Premium Plus break-even.**
-   - The British Airways Amex Premium Plus (UK) earns 1.25 Avios per £1, with a £300 fee and the Companion Voucher at £15,000 of spend a year.
-   - On £15,000 a year that's 18,750 Avios. The old 1.5 rate is a lead only.
-   - Say "in the UK" on screen and research Avios values on production day.
-   
-   File: `research/2026-11-04.md`. **Expires 2027-01-31.**
-3. **(Weak, US only) Southwest now gives status for card spending.**
+1. **(US only) Southwest now gives status for card spending.**
    - From Jan 1, 2027, every Rapid Rewards card earns 1 tier qualifying point per $1, and new Silver, Gold and Platinum tiers arrive.
    - Companion Pass qualifying points are retired after Dec 31, 2026.
    - Say "in the US" on screen.
    
    File: `research/2026-11-01.md`. **Expires 2026-12-31.**
-4. **(Weak, US only) Same points, different value: Chase to Hyatt is now 4:3.**
+2. **(US only) Same points, different value: Chase to Hyatt is now 4:3.**
    - Chase Sapphire Preferred points move to World of Hyatt at 4:3 (the 1:1 rate for older accounts ended Sep 30, 2026), so 40,000 Chase points become 30,000 Hyatt points.
    - Fits the idea bank's "check the transfer ratio before you transfer". Re-check the Chase page on production day.
    
    File: `research/2026-10-30.md`. **Expires 2026-12-29** (recheck due).
-5. **(Weak, worldwide) Qatar's monthly Avios sale and its catch.**
+3. **(Worldwide) Qatar's monthly Avios sale and its catch.**
    - Qatar releases Privilege Deals around the 5th of each month: up to 25% off the Avios on Qatar-operated flights, but taxes and surcharges stay in cash, no Avios are earned and Flexi awards are excluded.
-   - Only make it with one route and price confirmed on Qatar's own deals page that month. The November batch (book by Nov 14) is a lead only.
+   - Only make it with one route and price confirmed on Qatar's own deals page that month. The November batch (book by Nov 14) is still a lead only; aim for the Dec 5 release.
    
-   File: `research/2026-11-08.md`. **Expires 2027-01-05.**
+   Files: `research/2026-11-08.md`, `research/2026-11-09.md`. **Expires 2027-01-05.**
+4. **(Canada only) Aeroplan card fees go up, and a wallet credit arrives.**
+   - TD Aeroplan Visa Infinite goes from $139 to $159 and Visa Infinite Privilege from $599 to $699 on Jan 25, 2027. From Jan 15, 2027, Core cards get a $25 AC Wallet credit twice a year (up to $50) and Premium cards $50 twice a year (up to $100), for paid Air Canada flights only.
+   - Worked math: fee rise vs the credit, which only pays off if you buy Air Canada flights with cash. Which tier (Core or Premium) each TD card falls in isn't on file: confirm it on the Air Canada page before scripting. Say "in Canada" on screen; re-check the TD and Air Canada pages on production day.
+   
+   File: `research/2026-11-02.md`. **Expires 2027-01-25.**
+5. **(UK only) The BA Premium Plus break-even.**
+   - The British Airways Amex Premium Plus (UK) earns 1.25 Avios per £1, with a £300 fee and the Companion Voucher at £15,000 of spend a year.
+   - On £15,000 a year that's 18,750 Avios. The old 1.5 rate is a lead only.
+   - Say "in the UK" on screen and research Avios values on production day.
+   
+   File: `research/2026-11-04.md`. **Expires 2027-01-31.**
 
 Already made, so don't repeat these unless the angle is clearly different:
+- **Savings rate vs inflation, real return** (`videos/savings-vs-inflation-real-return.mp4`). Don't remake it on the October CPI figures unless the angle is clearly different.
 - **Two miles-expiry clocks, Emirates vs Aeroplan** (`videos/miles-expiry-two-clocks.mp4`).
 - **Rates turning up, what a 0.25-point rise costs** (`videos/rate-hikes-quarter-point.mp4`).
 - **UK cash ISA limit cut** (`videos/uk-cash-isa-limit-cut.mp4`).
@@ -74,7 +73,7 @@ Newest first. "Checked" is the date an official page last confirmed the item.
   - Supplementary card applications have been paused since Oct 27.
   
   Source: https://www.americanexpress.com/en-in/support/digital/consumer-experience-updates/ · checked 2026-11-06
-- **IRS 2026 limits are still the latest:** 401(k) elective deferral $24,500, IRA $7,500. The 2027 figures aren't out yet. Source: https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions · checked 2026-11-06
+- **IRS 2026 limits are still the latest:** 401(k) elective deferral $24,500, IRA $7,500. The 2027 figures aren't out yet. Source: https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions · checked 2026-11-09
 - **British Airways American Express Premium Plus (UK):** 1.25 Avios per £1 on purchases, no separate BA-spend rate listed, £300 annual fee, Companion Voucher after £15,000 of spend per cardmembership year. The Oct 7, 2026 cut from 1.5 per £1 and the April 2027 tier-point changes are leads only. Source: https://www.americanexpress.com/uk/credit-cards/ba-premium-plus-credit-card/ · checked 2026-11-04
 
 - **IDFC FIRST Bank (India): zero forex markup on all credit cards** since Sep 9, 2026 (the bank says this saves up to 3.5%). Whether international spending still earns reward points after Oct 26 is unresolved: the bank's notices conflict, so don't state it. Sources: https://www.idfcfirst.bank.in/content/dam/idfcfirstbank/pdf/credit-card/Credit-Card-Communication1-Sep-26.pdf · https://www.idfcfirst.bank.in/content/dam/idfcfirstbank/pdf/credit-card/Credit-Card-Communication-13-Sep-26.pdf · checked 2026-11-03
@@ -116,15 +115,19 @@ Newest first. "Checked" is the date an official page last confirmed the item.
   - $100 Chase Travel hotel credit.
   
   Source: https://www.chase.com/travel/guide/tips/preferred-update · checked 2026-10-30
-- **Aeroplan expiry pause ends Nov 30, 2026.** After that, the 18-month inactivity rule applies, with up to 60 days' email notice. Primary co-brand cardholders and Elite members are exempt. Sources: https://www.aircanada.com/ca/en/aco/home/aeroplan/news/points-expiry-suspended.html · https://www.aircanada.com/us/en/aco/home/aeroplan/your-aeroplan/inactivity-policy.html · checked 2026-10-30. The official news page showed nothing newer on 2026-11-01.
+- **Aeroplan expiry pause ends Nov 30, 2026.** After that, the 18-month inactivity rule applies, with up to 60 days' email notice. Primary co-brand cardholders and Elite members are exempt. Sources: https://www.aircanada.com/ca/en/aco/home/aeroplan/news/points-expiry-suspended.html · https://www.aircanada.com/us/en/aco/home/aeroplan/your-aeroplan/inactivity-policy.html · checked 2026-10-30. The official news page showed nothing newer on 2026-11-09.
 - **UK cash ISA limit £12,000 for under-65s from 6 April 2027.** The overall allowance stays £20,000, and people 65 and over keep £20,000 for cash. Source: https://www.gov.uk/government/publications/reduction-in-the-cash-individual-savings-account-isa-limit/cash-individual-savings-account-isa-limit-reduction · checked 2026-10-30
 - **Qatar Privilege Club My List:** up to four adults, who must stay on the list for at least six months, and accounts must be at least 30 days old. The terms page sets no earning requirement. Source: https://www.qatarairways.com/en/Privilege-Club/terms-and-conditions/my-list.html · checked 2026-10-30
 
 ## Ended or changed this week
 
-- **The two-expiry-clocks Short is made** (`videos/miles-expiry-two-clocks.mp4`); the Emirates/Aeroplan contrast is no longer a timely idea.
+- **The real-return Short is made** (`videos/savings-vs-inflation-real-return.mp4`), so it's off the timely list.
+- **Amex India deadline angle expires 2026-11-10** (outages start Nov 11); don't make it after today.
+- **Qatar November Privilege Deals** (book by Nov 14, travel Nov 5 to Dec 31): now reported by two blogs, but still a lead; Qatar's pages couldn't be fetched on 2026-11-09.
+- **Flying Blue November Promo Rewards** (25% off, book Nov 1-30, travel through Apr 30, 2027) and **Hilton's 120% points-purchase bonus** (until Nov 21): leads only.
+
+- **The two-expiry-clocks Short is made** (`videos/miles-expiry-two-clocks.mp4`).
 - **September inflation is now verified** (Canada 3.1%, US 3.7%, UK 3.5%), but it goes stale with the October releases on Nov 10 (US), Nov 16 (Canada) and Nov 18 (UK).
-- **Qatar Privilege Deals for November** (book by Nov 14, travel by Dec 31) are a lead only; the official pages still showed October.
 
 - **The "rates are turning up" Short is made** (`videos/rate-hikes-quarter-point.mp4`); don't make it again before the December decisions.
 - **Bank of England is now 4%, not 3.75%** (hike on Nov 5). Don't use 3.75% for anything current.
@@ -137,7 +140,6 @@ Newest first. "Checked" is the date an official page last confirmed the item.
   - Chase UR to BA, Iberia and Aer Lingus Avios 30% until Dec 1; Chase to IHG 80% and Wyndham 30% until Dec 3.
   - Capital One to Flying Blue 20% until Nov 30; Capital One to Virgin Atlantic 30% until Nov 20; new Capital One partner Copa ConnectMiles (1,000 to 750) with a 30% launch bonus until Dec 1.
   - Amex MR to Virgin Atlantic 30% until Nov 30; Amex MR to Marriott 35% until Dec 10; Amex UK to Hilton 40% until Nov 24; Citi to Cathay 10% until Nov 14.
-- **Flying Blue November Promo Rewards** (25% off, book by Nov 30): lead only; the official page wasn't found.
 - **Bank of Canada moved from hold to hike** (2.25% to 2.5% on Oct 28). Don't use 2.25% anywhere.
 - **Chase Sapphire Preferred 1:1 Hyatt transfers** for accounts opened before Jun 15, 2026 ended Sep 30, 2026.
 - **Not yet published:** the 2027 TFSA limit (CRA) and the 2027 401(k) and IRA limits (IRS). Don't use the forecasts ($7,500 TFSA, $25,500 401(k)).
