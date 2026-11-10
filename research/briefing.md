@@ -1,10 +1,10 @@
 # Research briefing
 
-Last updated: 2026-11-09 (daily research run). Re-check every figure on its official source before it goes into a Short.
+Last updated: 2026-11-10 (daily research run). Re-check every figure on its official source before it goes into a Short.
 
 ## Timely Short ideas
 
-Five verified angles, ranked by urgency and reach. All are weak or single-country now that the real-return Short is made; use them when the queue is empty, and watch the October CPI releases (US Nov 10, Canada Nov 16, UK Nov 18) and the December rate decisions for the next strong multi-country angle.
+Five verified angles, ranked by urgency and reach. All are single-country or weak; use them when the queue is empty, and watch the October CPI releases (US Nov 10, Canada Nov 16, UK Nov 18), the 2027 TFSA and IRS limits, and the December rate decisions for the next strong angle.
 
 1. **(US only) Southwest now gives status for card spending.**
    - From Jan 1, 2027, every Rapid Rewards card earns 1 tier qualifying point per $1, and new Silver, Gold and Platinum tiers arrive.
@@ -12,11 +12,12 @@ Five verified angles, ranked by urgency and reach. All are weak or single-countr
    - Say "in the US" on screen.
    
    File: `research/2026-11-01.md`. **Expires 2026-12-31.**
-2. **(US only) Same points, different value: Chase to Hyatt is now 4:3.**
-   - Chase Sapphire Preferred points move to World of Hyatt at 4:3 (the 1:1 rate for older accounts ended Sep 30, 2026), so 40,000 Chase points become 30,000 Hyatt points.
-   - Fits the idea bank's "check the transfer ratio before you transfer". Re-check the Chase page on production day.
+2. **(US only) Bilt's one-way switch: opt out before your card anniversary or lose it.**
+   - On each cardholder's anniversary, Flexible Bilt Cash mode (4% back in Bilt Cash on everyday spend) is retired in favour of up to 1.25X on rent or mortgage, unless they opt out in card settings first; the choice can't be reversed.
+   - Bilt Cash now expires at month-end 12 months after it's earned; from Jan 1, 2027, hotel redemptions drop to twice a year ($50 / $100 / $200 caps by tier).
+   - Don't tell viewers which mode to pick; show the deadline and the no-undo rule. Say "in the US" on screen.
    
-   File: `research/2026-10-30.md`. **Expires 2026-12-29** (recheck due).
+   File: `research/2026-11-10.md`. **Expires 2027-01-15** (recheck the official page on production day).
 3. **(Worldwide) Qatar's monthly Avios sale and its catch.**
    - Qatar releases Privilege Deals around the 5th of each month: up to 25% off the Avios on Qatar-operated flights, but taxes and surcharges stay in cash, no Avios are earned and Flexi awards are excluded.
    - Only make it with one route and price confirmed on Qatar's own deals page that month. The November batch (book by Nov 14) is still a lead only; aim for the Dec 5 release.
@@ -27,12 +28,13 @@ Five verified angles, ranked by urgency and reach. All are weak or single-countr
    - Worked math: fee rise vs the credit, which only pays off if you buy Air Canada flights with cash. Which tier (Core or Premium) each TD card falls in isn't on file: confirm it on the Air Canada page before scripting. Say "in Canada" on screen; re-check the TD and Air Canada pages on production day.
    
    File: `research/2026-11-02.md`. **Expires 2027-01-25.**
-5. **(UK only) The BA Premium Plus break-even.**
-   - The British Airways Amex Premium Plus (UK) earns 1.25 Avios per £1, with a £300 fee and the Companion Voucher at £15,000 of spend a year.
-   - On £15,000 a year that's 18,750 Avios. The old 1.5 rate is a lead only.
-   - Say "in the UK" on screen and research Avios values on production day.
+5. **(US only) Same points, different value: Chase to Hyatt is now 4:3.**
+   - Chase Sapphire Preferred points move to World of Hyatt at 4:3 (the 1:1 rate for older accounts ended Sep 30, 2026), so 40,000 Chase points become 30,000 Hyatt points.
+   - Fits the idea bank's "check the transfer ratio before you transfer". The Chase page was last checked Oct 30: re-check it on production day.
    
-   File: `research/2026-11-04.md`. **Expires 2027-01-31.**
+   File: `research/2026-10-30.md`. **Expires 2026-12-29.**
+
+Reserve (verified, not in the top five): **(UK only) the BA Premium Plus break-even** — 1.25 Avios per £1, £300 fee, Companion Voucher at £15,000 of spend (18,750 Avios on that spend); file `research/2026-11-04.md`, expires 2027-01-31. **(Canada only) 2027 limits** — RRSP $35,390 is official, TFSA isn't yet; wait for CRA's TFSA figure and make them together; file `research/2026-11-10.md`.
 
 Already made, so don't repeat these unless the angle is clearly different:
 - **Savings rate vs inflation, real return** (`videos/savings-vs-inflation-real-return.mp4`). Don't remake it on the October CPI figures unless the angle is clearly different.
@@ -44,15 +46,19 @@ Already made, so don't repeat these unless the angle is clearly different:
 - **Aeroplan 15% off the base fare** (`videos/aeroplan-15-off-base-fare.mp4`).
 - **Aeroplan expiry on Nov 30** (`videos/aeroplan-expiry-nov-30.mp4`).
 - **Revolut UK promo-rate cliff, ending Dec 4** (`videos/revolut-promo-rate-cliff.mp4`).
-- **Amex splitting points by card** (`videos/amex-points-split-by-card.mp4`). The India deadline angle expires 2026-11-10.
+- **Amex splitting points by card** (`videos/amex-points-split-by-card.mp4`). The India deadline angle has expired.
+- **Southwest Companion Pass 2027** (`videos/southwest-companion-pass-2027.mp4`) was added on 2026-11-09. If it covers the 2027 tier changes, treat idea 1 as made.
 
 ## Current facts
 
 Newest first. "Checked" is the date an official page last confirmed the item.
 
+- **Bilt 2027 program updates (US), announced Oct 27, 2026:** Bilt Cash expires at month-end 12 months after earning (no year-end rollover); Flexible Bilt Cash mode (4% back in Bilt Cash) is retired on each card anniversary unless the cardholder opts out beforehand, irreversibly; hotel redemptions twice a year from Jan 1, 2027 (up to $50 Blue/Silver, $100 Gold/Platinum, $200 eligible Palladium per redemption); Palladium credits become one $600 Bilt Cash credit and Obsidian's $100 hotel credit becomes $100 Bilt Cash, both on the anniversary; Daily Rewards from Jan 15, 2027. Source: https://newsroom.biltrewards.com/2027-bilt-program-updates · checked 2026-11-10
+- **CRA 2027 limits (Canada), posted Oct 28, 2026:** RRSP dollar limit $35,390 (2028: $36,390); money purchase $36,390; DB $4,043.33; DPSP $18,195; YMPE $76,700; YAMPE $87,400. The 2027 TFSA limit is not posted yet (2026: $7,000). Sources: https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html · https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/whats-new.html · checked 2026-11-10
+
 - **Inflation, September 2026 (latest releases):**
   - Canada CPI 3.1% year over year (3.0% in August; excluding gasoline 2.2%). Next release Nov 16. https://www150.statcan.gc.ca/n1/daily-quotidien/261019/dq261019a-eng.htm
-  - US CPI-U 3.7% over 12 months (not seasonally adjusted). Next release Nov 10. https://www.bls.gov/cpi/
+  - US CPI-U 3.7% over 12 months (not seasonally adjusted). October CPI releases Nov 10, 8:30 a.m. ET (schedule confirmed 2026-11-10: https://www.bls.gov/schedule/news_release/cpi.htm). https://www.bls.gov/cpi/
   - UK CPI 3.5% (3.1% in August), CPIH 3.6%. Next release 18 Nov. https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/september2026
   
   Checked 2026-11-08
@@ -73,7 +79,7 @@ Newest first. "Checked" is the date an official page last confirmed the item.
   - Supplementary card applications have been paused since Oct 27.
   
   Source: https://www.americanexpress.com/en-in/support/digital/consumer-experience-updates/ · checked 2026-11-06
-- **IRS 2026 limits are still the latest:** 401(k) elective deferral $24,500, IRA $7,500. The 2027 figures aren't out yet. Source: https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions · checked 2026-11-09
+- **IRS 2026 limits are still the latest:** 401(k) elective deferral $24,500, IRA $7,500. The 2027 figures aren't out yet (no notice on the Employee Plans news page on 2026-11-10). Sources: https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions · https://www.irs.gov/retirement-plans/employee-plans-news · checked 2026-11-10
 - **British Airways American Express Premium Plus (UK):** 1.25 Avios per £1 on purchases, no separate BA-spend rate listed, £300 annual fee, Companion Voucher after £15,000 of spend per cardmembership year. The Oct 7, 2026 cut from 1.5 per £1 and the April 2027 tier-point changes are leads only. Source: https://www.americanexpress.com/uk/credit-cards/ba-premium-plus-credit-card/ · checked 2026-11-04
 
 - **IDFC FIRST Bank (India): zero forex markup on all credit cards** since Sep 9, 2026 (the bank says this saves up to 3.5%). Whether international spending still earns reward points after Oct 26 is unresolved: the bank's notices conflict, so don't state it. Sources: https://www.idfcfirst.bank.in/content/dam/idfcfirstbank/pdf/credit-card/Credit-Card-Communication1-Sep-26.pdf · https://www.idfcfirst.bank.in/content/dam/idfcfirstbank/pdf/credit-card/Credit-Card-Communication-13-Sep-26.pdf · checked 2026-11-03
@@ -121,8 +127,11 @@ Newest first. "Checked" is the date an official page last confirmed the item.
 
 ## Ended or changed this week
 
+- **New verified US item: Bilt's 2027 changes** (irreversible opt-out before the card anniversary; rolling 12-month Bilt Cash expiry). A blog-reported fixed Dec 31, 2026 deadline isn't on Bilt's page; don't use it.
+- **CRA 2027 RRSP limit is official ($35,390)**; the 2027 TFSA limit still isn't. Keep using "not announced" for TFSA.
+- **United "dynamic pricing from Nov 15" is an unconfirmed claim** from one low-quality site; don't use it.
+- **Amex India deadline angle has expired** (outages start Nov 11). The underlying Amex India facts stay in force.
 - **The real-return Short is made** (`videos/savings-vs-inflation-real-return.mp4`), so it's off the timely list.
-- **Amex India deadline angle expires 2026-11-10** (outages start Nov 11); don't make it after today.
 - **Qatar November Privilege Deals** (book by Nov 14, travel Nov 5 to Dec 31): now reported by two blogs, but still a lead; Qatar's pages couldn't be fetched on 2026-11-09.
 - **Flying Blue November Promo Rewards** (25% off, book Nov 1-30, travel through Apr 30, 2027) and **Hilton's 120% points-purchase bonus** (until Nov 21): leads only.
 
@@ -135,13 +144,13 @@ Newest first. "Checked" is the date an official page last confirmed the item.
 - **Delta Amex US personal and business card offers ended Nov 4.**
 - **BA Amex Premium Plus (UK) earns 1.25 Avios per £1**, not 1.5, and has no 3x on BA spend (reported cut on Oct 7). Don't quote the old rates.
 - **Aeroplan card fees are rising in Canada** (TD Visa Infinite $159, Privilege $699 from Jan 25, 2027; Amex Business Reserve $799 from Jan 12, 2027). Don't quote the old fees for anything after those dates.
-- **Amex India: the real deadline is earlier than Nov 15.** Outages run Nov 11-18, and online cancellation is unavailable Nov 12-15. The India deadline angle expires 2026-11-10.
+- **Amex India: the real deadline is earlier than Nov 15.** Outages run Nov 11-18, and online cancellation is unavailable Nov 12-15.
 - **Transfer bonuses are leads only, so don't script them:**
   - Chase UR to BA, Iberia and Aer Lingus Avios 30% until Dec 1; Chase to IHG 80% and Wyndham 30% until Dec 3.
   - Capital One to Flying Blue 20% until Nov 30; Capital One to Virgin Atlantic 30% until Nov 20; new Capital One partner Copa ConnectMiles (1,000 to 750) with a 30% launch bonus until Dec 1.
   - Amex MR to Virgin Atlantic 30% until Nov 30; Amex MR to Marriott 35% until Dec 10; Amex UK to Hilton 40% until Nov 24; Citi to Cathay 10% until Nov 14.
 - **Bank of Canada moved from hold to hike** (2.25% to 2.5% on Oct 28). Don't use 2.25% anywhere.
 - **Chase Sapphire Preferred 1:1 Hyatt transfers** for accounts opened before Jun 15, 2026 ended Sep 30, 2026.
-- **Not yet published:** the 2027 TFSA limit (CRA) and the 2027 401(k) and IRA limits (IRS). Don't use the forecasts ($7,500 TFSA, $25,500 401(k)).
+- **Not yet published (checked 2026-11-10):** the 2027 TFSA limit (CRA) and the 2027 401(k) and IRA limits (IRS). Don't use the forecasts ($7,500 TFSA, $25,500 401(k)).
 - **ICICI MakeMyTrip 0% forex from Nov 10** is unconfirmed. The official page still showed 0.99% on Nov 3, so don't use 0%.
 - **IDFC FIRST international reward points:** some cards reportedly stopped earning points abroad from Oct 26, 2026, but the bank's notices conflict. Use only the zero-markup fact.
