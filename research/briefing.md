@@ -1,42 +1,43 @@
 # Research briefing
 
-Last updated: 2026-11-11 (daily research run). Re-check every figure on its official source before it goes into a Short.
+Last updated: 2026-11-12 (daily research run). Re-check every figure on its official source before it goes into a Short.
 
 ## Timely Short ideas
 
-Five verified angles, ranked by urgency and reach. Only idea 1 is worldwide and it has a real deadline (Nov 16). Watch Canada CPI (Nov 16), UK CPI (Nov 18), the 2027 TFSA and IRS limits, and the December rate decisions for the next strong angle.
+Five verified angles, ranked by urgency and reach. The Finnair and Bilt ideas are now made. Nothing worldwide has a near deadline tonight; the strongest new angle is Canada-only with a Dec 31 date. Watch Canada CPI (Nov 16), UK CPI (Nov 18), the 2027 TFSA and IRS retirement limits, Qatar's Dec 5 Privilege Deals and the December rate decisions.
 
-1. **(Worldwide) Half-price Avios are only cheap if you have the seat.**
-   - Finnair sells Avios at 30% to 50% off for purchases made 2-16 November 2026; the 50% tier starts at 85,000 Avios (30% from 5,000; 35% from 20,000; 40% from 50,000). Only members who joined before 30 October 2026 with at least 50 Avios qualify; the annual buy limit is reset to allow up to 200,000.
-   - Angle: do the math against one real award before buying. Don't quote a price per Avios unless it's seen on Finnair's page on production day (it varies by currency). `videos/never-transfer-before-seat.mp4` exists, so lead with the purchase math.
-   
-   File: `research/2026-11-11.md`. **Expires 2026-11-16.**
-2. **(US only) Bilt's one-way switch: opt out before your card anniversary or lose it.**
-   - On each cardholder's anniversary, Flexible Bilt Cash mode (4% back in Bilt Cash on everyday spend) is retired in favour of up to 1.25X on rent or mortgage, unless they opt out in card settings first; the choice can't be reversed.
-   - Bilt Cash now expires at month-end 12 months after it's earned; from Jan 1, 2027, hotel redemptions drop to twice a year ($50 / $100 / $200 caps by tier).
-   - Don't tell viewers which mode to pick; show the deadline and the no-undo rule. Say "in the US" on screen.
-   
-   File: `research/2026-11-10.md`. **Expires 2027-01-15** (recheck the official page on production day).
-3. **(Worldwide) Qatar's monthly Avios sale and its catch.**
+1. **(Canada only) Amex Platinum lounge visits are capped from Jan 1, 2027, and guests count.**
+   - Basic Platinum and Business Platinum: 6 Priority Pass and 6 Plaza Premium visits a year; supplementary Platinum 2; supplementary Gold none. A guest uses a visit. $20,000 of eligible purchases in a calendar year unlocks unlimited access (plus one free companion) until Dec 31 of the following year, and 2026 spend counts.
+   - Angle: "six visits isn't six trips" (a couple's round trip uses four), then the threshold and the Dec 31 date. Say "in Canada" on screen; present the rule, don't urge spending to hit it.
+
+   File: `research/2026-11-12.md`. **Expires 2026-12-31.**
+2. **(Worldwide) Qatar's monthly Avios sale and its catch.**
    - Qatar releases Privilege Deals around the 5th of each month: up to 25% off the Avios on Qatar-operated flights, but taxes and surcharges stay in cash, no Avios are earned and Flexi awards are excluded.
-   - Only make it with one route and price confirmed on Qatar's own deals page that month. The November batch (book by Nov 14) is still a lead only; aim for the Dec 5 release.
-   
+   - Only make it with one route and price confirmed on Qatar's own deals page that month. Aim for the Dec 5 release.
+
    Files: `research/2026-11-08.md`, `research/2026-11-09.md`. **Expires 2027-01-05.**
-4. **(Canada only) Aeroplan card fees go up, and a wallet credit arrives.**
+3. **(Canada only) Aeroplan card fees go up, and a wallet credit arrives.**
    - TD Aeroplan Visa Infinite goes from $139 to $159 and Visa Infinite Privilege from $599 to $699 on Jan 25, 2027. From Jan 15, 2027, Core cards get a $25 AC Wallet credit twice a year (up to $50) and Premium cards $50 twice a year (up to $100), for paid Air Canada flights only.
-   - Worked math: fee rise vs the credit, which only pays off if you buy Air Canada flights with cash. Which tier (Core or Premium) each TD card falls in isn't on file: confirm it on the Air Canada page before scripting. Say "in Canada" on screen; re-check the TD and Air Canada pages on production day.
-   
+   - Worked math: fee rise vs the credit. Confirm which tier each TD card falls in on the Air Canada page before scripting. Say "in Canada" on screen; re-check the TD and Air Canada pages on production day.
+
    File: `research/2026-11-02.md`. **Expires 2027-01-25.**
-5. **(US only) Same points, different value: Chase to Hyatt is now 4:3.**
+4. **(US only) Same points, different value: Chase to Hyatt is now 4:3.**
    - Chase Sapphire Preferred points move to World of Hyatt at 4:3 (the 1:1 rate for older accounts ended Sep 30, 2026), so 40,000 Chase points become 30,000 Hyatt points.
    - The Chase page was last checked Oct 30: re-check it on production day.
-   
-   File: `research/2026-10-30.md`. **Expires 2026-12-29.**
 
-Reserve (verified, not in the top five): **(UK only) the BA Premium Plus break-even** — 1.25 Avios per £1, £300 fee, Companion Voucher at £15,000 of spend (18,750 Avios on that spend); file `research/2026-11-04.md`, expires 2027-01-31. **(Canada only) 2027 limits** — RRSP $35,390 is official, TFSA isn't yet; wait for CRA's TFSA figure and make them together; file `research/2026-11-10.md`.
+   File: `research/2026-10-30.md`. **Expires 2026-12-29.**
+5. **(Canada only) The Hilton card bonus you only get in month 13.**
+   - New Hilton Honors American Express Card in Canada: $150 fee; 60,000 points and a Free Night Reward after $3,000 in 3 months, plus 10,000 after $500 of spend in month 13; Gold status; offer ends Jan 11, 2027.
+   - Angle: the full 70,000 needs the card past the first renewal, so the math is against two $150 fees. Say "in Canada" on screen; no recommendation to apply.
+
+   File: `research/2026-11-12.md`. **Expires 2027-01-11.**
+
+Reserve (verified, not in the top five): **(UK only) the BA Premium Plus break-even** — 1.25 Avios per £1, £300 fee, Companion Voucher at £15,000 of spend (18,750 Avios on that spend); file `research/2026-11-04.md`, expires 2027-01-31. **(Canada only) 2027 limits** — RRSP $35,390 is official, TFSA isn't yet; wait for CRA's TFSA figure and make them together; file `research/2026-11-10.md`. **(US only) 2027 tax figures** — standard deduction $16,600 / $33,200; pair with the 401(k) and IRA limits once out; file `research/2026-11-12.md`.
 
 Already made, so don't repeat these unless the angle is clearly different:
-- **Savings rate vs inflation, real return** (`videos/savings-vs-inflation-real-return.mp4`). Don't remake it on the October CPI figures unless the angle is clearly different.
+- **Finnair Avios sale, buy only against a real award** (`videos/finnair-avios-sale-buy-more.mp4`). The sale ends Nov 16.
+- **Bilt one-way switch** (`videos/bilt-anniversary-one-way-switch.mp4`). Only a clearly different angle (the rolling 12-month Bilt Cash expiry) would justify another.
+- **Savings rate vs inflation, real return** (`videos/savings-vs-inflation-real-return.mp4`).
 - **Two miles-expiry clocks, Emirates vs Aeroplan** (`videos/miles-expiry-two-clocks.mp4`).
 - **Rates turning up, what a 0.25-point rise costs** (`videos/rate-hikes-quarter-point.mp4`).
 - **UK cash ISA limit cut** (`videos/uk-cash-isa-limit-cut.mp4`).
@@ -45,18 +46,21 @@ Already made, so don't repeat these unless the angle is clearly different:
 - **Aeroplan 15% off the base fare** (`videos/aeroplan-15-off-base-fare.mp4`).
 - **Aeroplan expiry on Nov 30** (`videos/aeroplan-expiry-nov-30.mp4`).
 - **Revolut UK promo-rate cliff, ending Dec 4** (`videos/revolut-promo-rate-cliff.mp4`).
-- **Amex splitting points by card** (`videos/amex-points-split-by-card.mp4`). The India deadline angle has expired.
-- **Southwest Companion Pass and 2027 tiers** (`videos/southwest-companion-pass-2027.mp4`), so the Southwest idea is off the list.
-- **Bilt one-way switch** (`videos/bilt-anniversary-one-way-switch.mp4`) was added on 2026-11-10. Idea 2 stays listed only for a clearly different angle (the rolling 12-month Bilt Cash expiry); otherwise treat it as made.
+- **Amex splitting points by card** (`videos/amex-points-split-by-card.mp4`).
+- **Southwest Companion Pass and 2027 tiers** (`videos/southwest-companion-pass-2027.mp4`).
+- Also made: `avios-value-per-point`, `dcc-pay-local-currency`, `never-transfer-before-seat`, `tfsa-refill-trap`.
 
 ## Current facts
 
 Newest first. "Checked" is the date an official page last confirmed the item.
 
+- **Amex Platinum lounge caps (Canada), from Jan 1, 2027:** basic Platinum and Business Platinum 6 Priority Pass + 6 Plaza Premium visits per calendar year; supplementary Platinum 2; supplementary Gold none; guests use visits. $20,000 eligible purchases in a calendar year unlocks unlimited access plus one complimentary companion until Dec 31 of the following year (processing up to 12 weeks); 2026 spend counts; fees, interest and cash equivalents excluded; returns reduce it. Sources: https://www.americanexpress.com/en-ca/travel/lounges/the-platinum-card/terms · https://www.americanexpress.com/en-ca/benefits/travel/the-platinum-card/ · checked 2026-11-12
+- **Hilton Honors American Express Card (Canada):** $150 fee; 60,000 points + Free Night Reward after $3,000 in 3 months, plus 10,000 after $500 in month 13; 6X Hilton, 4X dining/gas/groceries in Canada, 2X other; Gold status, Diamond at $40,000 calendar-year spend; offer ends Jan 11, 2027. Source: https://www.hilton.com/en/hilton-honors/credit-cards/canada-card/ · checked 2026-11-12
+- **IRS tax year 2027 (US), IR-2026-133, Nov 5, 2026:** standard deduction $16,600 single, $33,200 married filing jointly; 37% above $661,375 single / $793,650 joint; gift exclusion $20,000. Source: https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2027-taxpayers-continue-to-benefit-from-the-working-families-tax-cuts · checked 2026-11-12
 - **Finnair Plus Avios sale (worldwide), 2-16 November 2026:** 30% off 5,000-19,000 Avios, 35% off 20,000-49,000, 40% off 50,000-84,000, 50% off 85,000-200,000, plus a 10% tier points bonus; members who joined before 30 Oct 2026 with at least 50 Avios; gifts excluded; the annual buy limit resets to allow up to 200,000. Price per Avios not on the page. Source: https://www.finnair.com/en/finnair-plus/buy--transfer-or-exchange-avios · checked 2026-11-11
 - **US October 2026 CPI (released Nov 10):** all items +0.4% in the month (seasonally adjusted), core +0.3%. No 12-month change published for October because October 2025 data were never collected (2025 lapse in appropriations). November CPI out Dec 10. Source: https://www.bls.gov/news.release/cpi.htm · checked 2026-11-11
 - **Bilt 2027 program updates (US), announced Oct 27, 2026:** Bilt Cash expires at month-end 12 months after earning (no year-end rollover); Flexible Bilt Cash mode (4% back in Bilt Cash) is retired on each card anniversary unless the cardholder opts out beforehand, irreversibly; hotel redemptions twice a year from Jan 1, 2027 (up to $50 Blue/Silver, $100 Gold/Platinum, $200 eligible Palladium per redemption); Palladium credits become one $600 Bilt Cash credit and Obsidian's $100 hotel credit becomes $100 Bilt Cash, both on the anniversary; Daily Rewards from Jan 15, 2027. Source: https://newsroom.biltrewards.com/2027-bilt-program-updates · checked 2026-11-10
-- **CRA 2027 limits (Canada), posted Oct 28, 2026:** RRSP dollar limit $35,390 (2028: $36,390); money purchase $36,390; DB $4,043.33; DPSP $18,195; YMPE $76,700; YAMPE $87,400. The 2027 TFSA limit is not posted yet (2026: $7,000). Sources: https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html · https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/whats-new.html · checked 2026-11-10
+- **CRA 2027 limits (Canada), posted Oct 28, 2026:** RRSP dollar limit $35,390 (2028: $36,390); money purchase $36,390; DB $4,043.33; DPSP $18,195; YMPE $76,700; YAMPE $87,400. The 2027 TFSA limit is not posted yet (2026: $7,000; still absent on 2026-11-12). Sources: https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html · https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/whats-new.html · checked 2026-11-12
 
 - **Inflation, September 2026 (latest releases):**
   - Canada CPI 3.1% year over year (3.0% in August; excluding gasoline 2.2%). Next release Nov 16. https://www150.statcan.gc.ca/n1/daily-quotidien/261019/dq261019a-eng.htm
@@ -129,34 +133,21 @@ Newest first. "Checked" is the date an official page last confirmed the item.
 
 ## Ended or changed this week
 
-- **New worldwide item: Finnair's Avios sale ends Nov 16.** Verified on Finnair's page; price per Avios is a lead only.
-- **US October CPI has no 12-month figure.** Don't say "US inflation was X% in October"; use September's 3.7% as the latest 12-month figure, or the 0.4% monthly change.
-- **Amex UK Platinum Priority Pass limits from 2028** (20 visits unless £30,000 spend) and **Amex UK Platinum/Gold boosted offers until 12 Jan 2027**: leads only; not on Amex's pages.
-- **Amex India outages are now under way** (Nov 11-18; online cancellation down Nov 12-15).
-- **New verified US item: Bilt's 2027 changes** (irreversible opt-out before the card anniversary; rolling 12-month Bilt Cash expiry). A blog-reported fixed Dec 31, 2026 deadline isn't on Bilt's page; don't use it.
+- **New verified Canada items:** Amex Platinum lounge caps from Jan 1, 2027 ($20,000 spend keeps unlimited; 2026 spend counts) and the new Hilton Honors Amex card (offer until Jan 11, 2027). Don't describe Canadian Platinum lounge access as "unlimited" for 2027.
+- **New verified US item:** IRS 2027 tax brackets and standard deduction. The 2027 401(k) and IRA limits are still not out; keep 2026's $24,500 / $7,500.
+- **Finnair and Bilt Shorts are made** and off the timely list. Finnair's sale ends Nov 16; drop it from current facts after that.
+- **Flying Blue November Promo Rewards** and **Virgin Atlantic's status match for BA Silver**: leads only (Flying Blue's deadline is reported inconsistently).
+- **US October CPI has no 12-month figure.** Don't say "US inflation was X% in October"; use September's 3.7%, or the 0.4% monthly change.
+- **Amex UK Platinum Priority Pass limits from 2028** and **Amex UK Platinum/Gold boosted offers until 12 Jan 2027**: leads only.
+- **Amex India outages are under way** (Nov 11-18; online cancellation down Nov 12-15). The Amex India deadline angle has expired.
+- **Bilt's fixed Dec 31, 2026 deadline** (blog report) isn't on Bilt's page; don't use it.
 - **CRA 2027 RRSP limit is official ($35,390)**; the 2027 TFSA limit still isn't. Keep using "not announced" for TFSA.
-- **United "dynamic pricing from Nov 15" is an unconfirmed claim** from one low-quality site; don't use it.
-- **Amex India deadline angle has expired** (outages start Nov 11). The underlying Amex India facts stay in force.
-- **The real-return Short is made** (`videos/savings-vs-inflation-real-return.mp4`), so it's off the timely list.
-- **Qatar November Privilege Deals** (book by Nov 14, travel Nov 5 to Dec 31): now reported by two blogs, but still a lead; Qatar's pages couldn't be fetched on 2026-11-09.
-- **Flying Blue November Promo Rewards** (25% off, book Nov 1-30, travel through Apr 30, 2027) and **Hilton's 120% points-purchase bonus** (until Nov 21): leads only.
-
-- **The two-expiry-clocks Short is made** (`videos/miles-expiry-two-clocks.mp4`).
-- **September inflation is now verified** (Canada 3.1%, US 3.7%, UK 3.5%), but it goes stale with the October releases on Nov 10 (US), Nov 16 (Canada) and Nov 18 (UK).
-
-- **The "rates are turning up" Short is made** (`videos/rate-hikes-quarter-point.mp4`); don't make it again before the December decisions.
-- **Bank of England is now 4%, not 3.75%** (hike on Nov 5). Don't use 3.75% for anything current.
-- **Wealthsimple savings is CIPF-protected, not CDIC.** Don't say "CDIC insured" for it.
-- **Delta Amex US personal and business card offers ended Nov 4.**
-- **BA Amex Premium Plus (UK) earns 1.25 Avios per £1**, not 1.5, and has no 3x on BA spend (reported cut on Oct 7). Don't quote the old rates.
-- **Aeroplan card fees are rising in Canada** (TD Visa Infinite $159, Privilege $699 from Jan 25, 2027; Amex Business Reserve $799 from Jan 12, 2027). Don't quote the old fees for anything after those dates.
-- **Amex India: the real deadline is earlier than Nov 15.** Outages run Nov 11-18, and online cancellation is unavailable Nov 12-15.
-- **Transfer bonuses are leads only, so don't script them:**
-  - Chase UR to BA, Iberia and Aer Lingus Avios 30% until Dec 1; Chase to IHG 80% and Wyndham 30% until Dec 3.
-  - Capital One to Flying Blue 20% until Nov 30; Capital One to Virgin Atlantic 30% until Nov 20; new Capital One partner Copa ConnectMiles (1,000 to 750) with a 30% launch bonus until Dec 1.
-  - Amex MR to Virgin Atlantic 30% until Nov 30; Amex MR to Marriott 35% until Dec 10; Amex UK to Hilton 40% until Nov 24; Citi to Cathay 10% until Nov 14.
-- **Bank of Canada moved from hold to hike** (2.25% to 2.5% on Oct 28). Don't use 2.25% anywhere.
-- **Chase Sapphire Preferred 1:1 Hyatt transfers** for accounts opened before Jun 15, 2026 ended Sep 30, 2026.
-- **Not yet published (checked 2026-11-10):** the 2027 TFSA limit (CRA) and the 2027 401(k) and IRA limits (IRS). Don't use the forecasts ($7,500 TFSA, $25,500 401(k)).
-- **ICICI MakeMyTrip 0% forex from Nov 10** is unconfirmed. The official page still showed 0.99% on Nov 3, so don't use 0%.
-- **IDFC FIRST international reward points:** some cards reportedly stopped earning points abroad from Oct 26, 2026, but the bank's notices conflict. Use only the zero-markup fact.
+- **United "dynamic pricing from Nov 15"** is an unconfirmed claim from one low-quality site; don't use it.
+- **Qatar November Privilege Deals** (book by Nov 14): still a lead; it closes before any Short could use it.
+- **Hilton's 120% points-purchase bonus** (until Nov 21): lead only.
+- **Bank of England is 4%, not 3.75%** (hike on Nov 5); **Bank of Canada is 2.5%** (hike Oct 28). Don't use the old rates.
+- **Wealthsimple savings is CIPF-protected, not CDIC.**
+- **BA Amex Premium Plus (UK) earns 1.25 Avios per £1**, not 1.5. Don't quote the old rate.
+- **Aeroplan card fees are rising in Canada** (TD Visa Infinite $159, Privilege $699 from Jan 25, 2027; Amex Business Reserve $799 from Jan 12, 2027).
+- **Transfer bonuses are leads only, so don't script them:** Chase UR to Avios programmes 30% until Dec 1; Chase to IHG 80% and Wyndham 30% until Dec 3; Capital One to Flying Blue 20% until Nov 30, to Virgin Atlantic 30% until Nov 20, new partner Copa (1,000 to 750) with 30% until Dec 1; Amex MR to Virgin Atlantic 30% until Nov 30, to Marriott 35% until Dec 10; Amex UK to Hilton 40% until Nov 24; Citi to Cathay 10% until Nov 14.
+- **ICICI MakeMyTrip 0% forex** is unconfirmed (official page showed 0.99% on Nov 3). **IDFC FIRST international reward points**: notices conflict; use only the zero-markup fact.
