@@ -1,41 +1,41 @@
 # Research briefing
 
-Last updated: 2026-11-17 (daily research run). Re-check every figure on its official source before it goes into a Short.
+Last updated: 2026-11-18 (daily research run). Re-check every figure on its official source before it goes into a Short.
 
 ## Timely Short ideas
 
-Five verified angles, ranked by urgency and reach. The Rogers bill-fee Short is now made. New tonight: SBI Card's 1% fuel and transport fees in India from Dec 1. Watch UK CPI (Nov 18), the 2027 TFSA limit, Amex Canada Fixed Points Travel (reported to end Jan 6, 2027 for Cobalt and Gold; lead), Qatar's Dec 5 Privilege Deals and the December rate decisions (RBI Dec 2-4, Fed Dec 8-9, Bank of Canada Dec 9, Bank of England Dec 17).
+Five verified angles, ranked by urgency and reach. The SBI fuel-fee Short is now made, so it's off the list; the Wealthsimple fee break-even moves up from the reserve. Tonight was quiet (see `research/2026-11-18.md`). Watch UK CPI (out Nov 18, 7:00 UK), the 2027 TFSA limit, Amex Canada Fixed Points Travel (reported to end Jan 6, 2027 for Cobalt and Gold; lead), Qatar's Dec 5 Privilege Deals and the December rate decisions (RBI Dec 2-4, Fed Dec 8-9, Bank of Canada Dec 9, Bank of England Dec 17).
 
-1. **(India only) The fuel fee that hits your whole month.**
-   - From Dec 1, 2026, SBI Card charges 1% on transportation transactions above ₹30,000, and once a billing cycle's fuel spend passes ₹50,000, 1% on the total fuel spend for that cycle.
-   - Worked math: ₹49,000 of fuel = no fee; ₹51,000 = ₹510; ₹60,000 = ₹600. Say "in India" and "SBI Card" on screen. Don't name which cards are covered (the official notice doesn't list them), and don't say whether the transport fee is on the full amount (the notice doesn't say).
-
-   File: `research/2026-11-17.md`. **Expires 2026-12-31** (a "before it starts" angle until Dec 1, an explainer for a few weeks after).
-2. **(Worldwide) Qatar's monthly Avios sale and its catch.**
+1. **(Worldwide) Qatar's monthly Avios sale and its catch.**
    - Qatar releases Privilege Deals around the 5th of each month: up to 25% off the Avios on Qatar-operated flights, but taxes and surcharges stay in cash, no Avios are earned and Flexi awards are excluded.
    - Only make it with one route and price confirmed on Qatar's own deals page that month. Aim for the Dec 5 release.
 
    Files: `research/2026-11-08.md`, `research/2026-11-09.md`. **Expires 2027-01-05.**
-3. **(Canada only) The Hilton card bonus you only get in month 13.**
+2. **(Canada only) The Hilton card bonus you only get in month 13.**
    - New Hilton Honors American Express Card in Canada: $150 fee; 60,000 points and a Free Night Reward after $3,000 in 3 months, plus 10,000 after $500 of spend in month 13; Gold status; offer ends Jan 11, 2027.
    - Angle: the full 70,000 needs the card past the first renewal, so the math is against two $150 fees. Say "in Canada" on screen; no recommendation to apply.
 
    File: `research/2026-11-12.md`. **Expires 2027-01-11.**
+3. **(UK only) The BA Premium Plus break-even.**
+   - 1.25 Avios per £1, £300 fee, Companion Voucher at £15,000 of spend (18,750 Avios on that spend). Re-check the Amex UK page on production day.
+
+   File: `research/2026-11-04.md`. **Expires 2027-01-31.**
 4. **(Canada only) Your "free" hotel night now costs $3,000 of spend.**
    - Amex Canada Marriott Bonvoy card: from Feb 9, 2027 the fee is $150 (from $120) and the annual Free Night Award needs $3,000 of spend a year ($250 a month).
    - Angle: the night stops being automatic. Status changes, the 35,000-point cap and the new no-fee Bright card are leads; check Amex's product-changes page before using them. Say "in Canada" on screen; no recommendation to apply or cancel.
 
    File: `research/2026-11-16.md`. **Expires 2027-02-09.**
-5. **(UK only) The BA Premium Plus break-even.**
-   - 1.25 Avios per £1, £300 fee, Companion Voucher at £15,000 of spend (18,750 Avios on that spend). Re-check the Amex UK page on production day.
+5. **(Canada only) The $20-a-month card break-even.**
+   - Wealthsimple Visa Infinite+: $240 a year unless you hold $100,000 at Wealthsimple or direct-deposit $4,000 a month; 2% on everything means $12,000 of spend a year just to cover the fee.
+   - Same lesson as the Rogers and SBI Shorts (fee vs earn), so vary the format (head-to-head: fee paid vs waived). Re-check Wealthsimple's page on production day. Say "in Canada" on screen; no recommendation to apply.
 
-   File: `research/2026-11-04.md`. **Expires 2027-01-31.**
+   File: `research/2026-11-16.md`. **Expires 2027-01-31.**
 
 Reserve (verified, not in the top five):
-- **(Canada only) 2027 limits** — RRSP $35,390 is official, TFSA still isn't (checked Nov 17); wait for CRA's TFSA figure and make them together; file `research/2026-11-10.md`.
-- **(Canada only) The $20-a-month card break-even** — Wealthsimple Visa Infinite+: $240 a year unless you hold $100,000 at Wealthsimple or direct-deposit $4,000 a month; 2% on everything needs $12,000 of spend to cover the fee; file `research/2026-11-16.md`.
+- **(Canada only) 2027 limits** — RRSP $35,390 is official, TFSA still isn't (last checked Nov 17); wait for CRA's TFSA figure and make them together; file `research/2026-11-10.md`.
 
 Already made, so don't repeat these unless the angle is clearly different:
+- **SBI Card 1% fuel and transport fees, India** (`videos/sbi-fuel-fee-cliff.mp4`). The SBI facts below stay usable as supporting material.
 - **Rogers 1.6% bill-payment fee vs card earn** (`videos/rogers-card-fee-break-even.mp4`). The Rogers facts below stay usable as supporting material.
 - **US 2027 401(k) limit vs your payroll percentage** (`videos/401k-2027-percent-gap.mp4`). The IRS figures below stay usable as supporting material.
 - **Amex Platinum Canada lounge cap** (`videos/amex-platinum-canada-lounge-cap.mp4`).
@@ -60,13 +60,14 @@ Already made, so don't repeat these unless the angle is clearly different:
 
 Newest first. "Checked" is the date an official page last confirmed the item.
 
-- **SBI Card (India), from Dec 1, 2026:** 1% fee on every transportation transaction above ₹30,000 (MCC 4111, 4784, 4131); once a billing cycle's fuel spend exceeds ₹50,000 (MCC 5172, 5541, 5542, 5983), 1% on the total fuel spend. Notice dated Oct 27, 2026; cards covered not listed on the notice. Source: https://www.sbicard.com/en/customer-notices.page · checked 2026-11-17
+- **Southwest Rapid Rewards Priority card (US):** 90,000 bonus points after $3,000 in purchases in the first 3 months; $229 annual fee; "limited-time offer" with no end date on Chase's page (a Dec 2, 2026 end and Companion Pass counting for approvals by then are blog leads). Source: https://creditcards.chase.com/travel-credit-cards/southwest/priority?CELL=6PJ4 · checked 2026-11-18
+- **SBI Card (India), from Dec 1, 2026:** 1% fee on every transportation transaction above ₹30,000 (MCC 4111, 4784, 4131); once a billing cycle's fuel spend exceeds ₹50,000 (MCC 5172, 5541, 5542, 5983), 1% on the total fuel spend. Notice dated Oct 27, 2026; cards covered not listed on the notice. Already made: `sbi-fuel-fee-cliff`. Source: https://www.sbicard.com/en/customer-notices.page · checked 2026-11-17
 - **Canada CPI, October 2026 (released Nov 16):** 3.1% year over year (unchanged from September); +0.2% on the month; excluding energy 2.0%. Next release Dec 14. Source: https://www150.statcan.gc.ca/n1/daily-quotidien/261116/dq261116a-eng.htm · checked 2026-11-17
 - **Rogers Red Mastercard (Canada), from Nov 18, 2026:** 5% on certain eligible Rogers purchases (within annual limits); all rewards redeem at 1 point per $0.01; the 1.5x Redemption Bonus ends, including for earlier transactions. Earn: Red 2% with a Rogers service (first $16,000 a year); Red World Elite 3% USD / 2% other with a Rogers service (first $61,000). Source: https://www.rogers.com/credit-card · checked 2026-11-17
 - **Amex Marriott Bonvoy American Express Card (Canada), from Feb 9, 2027:** annual fee $150 if charged on or after that date (now $120); a $3,000 annual spend requirement unlocks the annual Free Night Award; other benefits also change (not checked). Source: https://www.americanexpress.com/en-ca/campaigns/marriott-bonvoy/apply-now/ · checked 2026-11-16
 - **Wealthsimple Visa Infinite+ (Canada):** $240 a year ($20 a month; annually in Quebec), waived with $100,000+ in individual assets or $4,000+ a month in direct deposits; 2% cash back on everything, no cap; new clients 5% for the first 5 weeks; 0% FX fees; income $80,000 personal or $150,000 household; needs a Wealthsimple chequing account; no lounge access. Source: https://www.wealthsimple.com/en-ca/wealthsimple-visa-infinite-card · checked 2026-11-16
 - **BMO eclipse Visa Infinite Privilege (Canada):** no 2.5% foreign transaction fee; 10 lounge visits a year (Visa Airport Companion); $200 Travel Credit on a travel purchase of $500+; 5 points per $1 on travel, gas, groceries, health and wellness, dining; 1 per $1 otherwise; income $150,000 / $200,000 household. Fee and caps not shown on the page. Source: https://www.bmo.com/main/personal/credit-cards/bmo-eclipse-visa-infinite-privilege/ · checked 2026-11-16
-- **Amex Canada Fixed Points Travel chart (still live):** 15,000 points return short haul (max $300 base); Europe 60,000 economy / 140,000 business; worldwide 100,000 / 250,000. No end date on the page (terms let Amex end it at any time); Cobalt and Gold Rewards still listed as eligible. A reported end for Cobalt and Gold from Jan 6, 2027 is a lead only. Source: https://www.americanexpress.com/ca/en/travel/fixed-points-travel.html · checked 2026-11-17
+- **Amex Canada Fixed Points Travel chart (still live):** 15,000 points return short haul (max $300 base); Europe 60,000 economy / 140,000 business; worldwide 100,000 / 250,000. No end date on the page (terms let Amex end it at any time); Cobalt and Gold Rewards still listed as eligible. A reported end for Cobalt and Gold from Jan 6, 2027 is a lead only. Source: https://www.americanexpress.com/ca/en/travel/fixed-points-travel.html · checked 2026-11-18
 - **IRS 2027 retirement limits (US), IR-2026-136, Nov 12, 2026:** 401(k)/403(b)/457/TSP deferral $25,500; catch-up 50+ $8,500 (60-63: $11,750); IRA $7,500 (unchanged), IRA catch-up $1,100; SIMPLE $17,500; Roth IRA phase-out $158,000-$173,000 single/HoH, $250,000-$260,000 joint; traditional IRA deduction phase-out (covered, single) $83,000-$93,000. Source: https://www.irs.gov/newsroom/401k-limit-increases-to-25500-for-2027-ira-limit-remains-7500 · checked 2026-11-15
 - **Rogers credit card processing charge (Canada), from Jan 17, 2027:** 1.6% on every credit card bill payment (Auto-Pay or one-time); exempt: Quebec, select specialized plans (e.g. Connected for Success), former Shaw Mobile customers on migrated plans; avoided with direct debit, online banking, cheque, debit Mastercard or Visa Debit. Source: https://www.rogers.com/support/billing-accounts/understanding-the-credit-card-processing-charge · checked 2026-11-15
 - **Chase Sapphire Reserve for Business (US):** from Nov 15, 2026, 3x on social and search advertising only on the first $1,000,000 per account anniversary year, then 1x; from Jan 1, 2027, The Edit credit up to $1,000 a calendar year (adds $500); $795 fee. Welcome offer reads inconsistently on the page; don't quote it. Source: https://creditcards.chase.com/business-credit-cards/sapphire/reserve · checked 2026-11-15
@@ -145,6 +146,8 @@ Newest first. "Checked" is the date an official page last confirmed the item.
 
 ## Ended or changed this week
 
+- **Nov 18 run was quiet:** one new verified item (Southwest Priority 90,000 offer, US). **SBI fuel-fee Short is made** (`sbi-fuel-fee-cliff`) and off the timely list. **Rogers Red 1.5x Redemption Bonus ends today (Nov 18)**; don't call it a live perk. **UK October CPI** wasn't out at run time; keep 3.5% (September) until it's checked.
+- **New leads (Nov 18):** Club Eurostar reward prices up from Nov 1 (UK/Europe); Southwest offers reportedly end Dec 2 (US); Amex UK Platinum and Gold boosted offers reportedly to Jan 12, 2027.
 - **New verified items (Nov 17):** SBI Card 1% transport and fuel fees from Dec 1 (India); Canada October CPI 3.1%; Rogers Red Mastercard changes on Nov 18 (Canada).
 - **Rogers bill-fee Short is made** (`rogers-card-fee-break-even`) and off the timely list. **Rogers Red 1.5x Redemption Bonus ends Nov 18**, including for earlier transactions; don't mention it as a live perk after that.
 - **Canada CPI is 3.1% for October** (not a drop to 2.2%; blog headlines saying 2.2% are about October 2025). Use 3.1%.
@@ -154,7 +157,7 @@ Newest first. "Checked" is the date an official page last confirmed the item.
 - **Chase Sapphire Reserve for Business 3x advertising cap** took effect Nov 15 (US).
 - **Amex India per-card points tracking took effect Nov 15**; transfers between your own cards are gone for good (already made: `amex-points-split-by-card`).
 - **CRA 2027 TFSA limit still not posted** (checked Nov 17). A "$7,500 announced" blog claim is unconfirmed; keep saying "not announced".
-- **Amex Canada Fixed Points Travel:** blogs say it ends Jan 6, 2027 for Cobalt, Gold Rewards, Green and Business Gold (Platinum keeps it by phone). Not on Amex's page (rechecked Nov 17); don't script it until an official page confirms.
+- **Amex Canada Fixed Points Travel:** blogs say it ends Jan 6, 2027 for Cobalt, Gold Rewards, Green and Business Gold (Platinum keeps it by phone). Not on Amex's page (rechecked Nov 18); don't script it until an official page confirms.
 - **Don't describe Canadian Amex Platinum lounge access as "unlimited" for 2027** ($20,000 spend unlocks it). **Don't call the Canadian Marriott Bonvoy free night automatic after Feb 9, 2027.**
 - **US October CPI has no 12-month figure.** Use September's 3.7%, or October's 0.4% monthly change.
 - **Bank of England is 4%, Bank of Canada 2.5%** after their hikes; don't use older rates. **Wealthsimple savings is CIPF-protected, not CDIC.** **BA Amex Premium Plus (UK) earns 1.25 Avios per £1**, not 1.5.
