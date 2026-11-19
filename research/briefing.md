@@ -1,10 +1,10 @@
 # Research briefing
 
-Last updated: 2026-11-18 (daily research run). Re-check every figure on its official source before it goes into a Short.
+Last updated: 2026-11-19 (daily research run). Re-check every figure on its official source before it goes into a Short.
 
 ## Timely Short ideas
 
-Five verified angles, ranked by urgency and reach. The SBI fuel-fee Short is now made, so it's off the list; the Wealthsimple fee break-even moves up from the reserve. Tonight was quiet (see `research/2026-11-18.md`). Watch UK CPI (out Nov 18, 7:00 UK), the 2027 TFSA limit, Amex Canada Fixed Points Travel (reported to end Jan 6, 2027 for Cobalt and Gold; lead), Qatar's Dec 5 Privilege Deals and the December rate decisions (RBI Dec 2-4, Fed Dec 8-9, Bank of Canada Dec 9, Bank of England Dec 17).
+Only four verified angles tonight. The BA Premium Plus Short is now made (`ba-companion-voucher-15k`), so it's off the list, and nothing new verified to replace it. The biggest new item, Chase adding Qantas and Cathay Pacific as 1:1 partners (US, Nov 18), is a lead until a Chase, Qantas or Cathay page confirms it; it goes to the top of this list once it does (see `research/2026-11-19.md`). Watch UK October CPI on ONS (reported 3.6%, lead), the 2027 TFSA limit, Amex Canada Fixed Points Travel (reported to end Jan 6, 2027 for Cobalt and Gold; lead), Qatar's Dec 5 Privilege Deals and the December rate decisions (RBI Dec 2-4, Fed Dec 8-9, Bank of Canada Dec 9, Bank of England Dec 17).
 
 1. **(Worldwide) Qatar's monthly Avios sale and its catch.**
    - Qatar releases Privilege Deals around the 5th of each month: up to 25% off the Avios on Qatar-operated flights, but taxes and surcharges stay in cash, no Avios are earned and Flexi awards are excluded.
@@ -16,25 +16,25 @@ Five verified angles, ranked by urgency and reach. The SBI fuel-fee Short is now
    - Angle: the full 70,000 needs the card past the first renewal, so the math is against two $150 fees. Say "in Canada" on screen; no recommendation to apply.
 
    File: `research/2026-11-12.md`. **Expires 2027-01-11.**
-3. **(UK only) The BA Premium Plus break-even.**
-   - 1.25 Avios per £1, £300 fee, Companion Voucher at £15,000 of spend (18,750 Avios on that spend). Re-check the Amex UK page on production day.
-
-   File: `research/2026-11-04.md`. **Expires 2027-01-31.**
-4. **(Canada only) Your "free" hotel night now costs $3,000 of spend.**
+3. **(Canada only) Your "free" hotel night now costs $3,000 of spend.**
    - Amex Canada Marriott Bonvoy card: from Feb 9, 2027 the fee is $150 (from $120) and the annual Free Night Award needs $3,000 of spend a year ($250 a month).
    - Angle: the night stops being automatic. Status changes, the 35,000-point cap and the new no-fee Bright card are leads; check Amex's product-changes page before using them. Say "in Canada" on screen; no recommendation to apply or cancel.
 
    File: `research/2026-11-16.md`. **Expires 2027-02-09.**
-5. **(Canada only) The $20-a-month card break-even.**
+4. **(Canada only) The $20-a-month card break-even.**
    - Wealthsimple Visa Infinite+: $240 a year unless you hold $100,000 at Wealthsimple or direct-deposit $4,000 a month; 2% on everything means $12,000 of spend a year just to cover the fee.
    - Same lesson as the Rogers and SBI Shorts (fee vs earn), so vary the format (head-to-head: fee paid vs waived). Re-check Wealthsimple's page on production day. Say "in Canada" on screen; no recommendation to apply.
 
    File: `research/2026-11-16.md`. **Expires 2027-01-31.**
 
-Reserve (verified, not in the top five):
-- **(Canada only) 2027 limits** — RRSP $35,390 is official, TFSA still isn't (last checked Nov 17); wait for CRA's TFSA figure and make them together; file `research/2026-11-10.md`.
+Reserve (verified, not in the top list):
+- **(Canada only) 2027 limits** — RRSP $35,390 is official, TFSA still isn't (last checked Nov 19); wait for CRA's TFSA figure and make them together; file `research/2026-11-10.md`.
+
+Waiting on verification (don't script yet):
+- **(US) Chase points to Qantas and Cathay, 1:1** — file `research/2026-11-19.md`. Strong angle once an official page confirms it.
 
 Already made, so don't repeat these unless the angle is clearly different:
+- **BA Premium Plus Companion Voucher at £15,000, UK** (`videos/ba-companion-voucher-15k.mp4`). The BA Premium Plus facts below stay usable as supporting material.
 - **SBI Card 1% fuel and transport fees, India** (`videos/sbi-fuel-fee-cliff.mp4`). The SBI facts below stay usable as supporting material.
 - **Rogers 1.6% bill-payment fee vs card earn** (`videos/rogers-card-fee-break-even.mp4`). The Rogers facts below stay usable as supporting material.
 - **US 2027 401(k) limit vs your payroll percentage** (`videos/401k-2027-percent-gap.mp4`). The IRS figures below stay usable as supporting material.
@@ -76,12 +76,12 @@ Newest first. "Checked" is the date an official page last confirmed the item.
 - **IRS tax year 2027 (US), IR-2026-133, Nov 5, 2026:** standard deduction $16,600 single, $33,200 married filing jointly; 37% above $661,375 single / $793,650 joint; gift exclusion $20,000. Source: https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2027-taxpayers-continue-to-benefit-from-the-working-families-tax-cuts · checked 2026-11-12
 - **US October 2026 CPI (released Nov 10):** all items +0.4% in the month (seasonally adjusted), core +0.3%. No 12-month change published for October because October 2025 data were never collected (2025 lapse in appropriations). November CPI out Dec 10. Source: https://www.bls.gov/news.release/cpi.htm · checked 2026-11-11
 - **Bilt 2027 program updates (US), announced Oct 27, 2026:** Bilt Cash expires at month-end 12 months after earning (no year-end rollover); Flexible Bilt Cash mode (4% back in Bilt Cash) is retired on each card anniversary unless the cardholder opts out beforehand, irreversibly; hotel redemptions twice a year from Jan 1, 2027 (up to $50 Blue/Silver, $100 Gold/Platinum, $200 eligible Palladium per redemption); Palladium credits become one $600 Bilt Cash credit and Obsidian's $100 hotel credit becomes $100 Bilt Cash, both on the anniversary; Daily Rewards from Jan 15, 2027. Source: https://newsroom.biltrewards.com/2027-bilt-program-updates · checked 2026-11-10
-- **CRA 2027 limits (Canada), posted Oct 28, 2026:** RRSP dollar limit $35,390 (2028: $36,390); money purchase $36,390; DB $4,043.33; DPSP $18,195; YMPE $76,700; YAMPE $87,400. The 2027 TFSA limit is not posted yet (2026: $7,000; still absent on 2026-11-17). Sources: https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html · https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/whats-new.html · checked 2026-11-17 (TFSA only)
+- **CRA 2027 limits (Canada), posted Oct 28, 2026:** RRSP dollar limit $35,390 (2028: $36,390); money purchase $36,390; DB $4,043.33; DPSP $18,195; YMPE $76,700; YAMPE $87,400. The 2027 TFSA limit is not posted yet (2026: $7,000; still absent on 2026-11-19). Sources: https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html · https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/whats-new.html · checked 2026-11-19 (TFSA only)
 
 - **Inflation (latest releases):**
   - Canada: see October CPI above (3.1%).
   - US CPI-U 3.7% over 12 months to September (not seasonally adjusted). Still the latest official US 12-month figure: October's was not published (see above). https://www.bls.gov/cpi/ · checked 2026-11-08
-  - UK CPI 3.5% in September (3.1% in August), CPIH 3.6%. Next release 18 Nov. https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/september2026 · checked 2026-11-08
+  - UK CPI 3.5% in September (3.1% in August), CPIH 3.6%. October (reported 3.6%, released Nov 18) not yet confirmed on ONS; keep 3.5% until it is. https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/september2026 · checked 2026-11-08
 - **Qatar Airways Privilege Deals (how they work):** released generally on the 5th of each month; up to 25% off award flights; Qatar-marketed and operated flights only; origin-and-destination basis; Avios needed can vary by tier; taxes, fees and surcharges in cash; no Avios earned; no Flexi awards; not combinable with other Avios offers. The current month's routes and prices must be checked on the page itself. Sources: https://www.qatarairways.com/en-am/offers/privilege-deals.html · https://www.qatarairways.com/en-ae/Privilege-Club/fly-with-avios/special-offers.html · checked 2026-11-08
 
 - **Wealthsimple savings account (Canada):** flat 2.5% a year, calculated daily and paid monthly, no tiers, minimums or fees; protected by CIPF (eligible cash up to $1 million), not CDIC; no account or transit number, so no direct deposit into it. Source: https://www.wealthsimple.com/en-ca/learn/wealthsimple-savings-account · checked 2026-11-07
@@ -99,7 +99,7 @@ Newest first. "Checked" is the date an official page last confirmed the item.
   - Supplementary card applications have been paused since Oct 27.
   
   Source: https://www.americanexpress.com/en-in/support/digital/consumer-experience-updates/ · checked 2026-11-06
-- **British Airways American Express Premium Plus (UK):** 1.25 Avios per £1 on purchases, no separate BA-spend rate listed, £300 annual fee, Companion Voucher after £15,000 of spend per cardmembership year. The Oct 7, 2026 cut from 1.5 per £1 and the April 2027 tier-point changes are leads only. Source: https://www.americanexpress.com/uk/credit-cards/ba-premium-plus-credit-card/ · checked 2026-11-04
+- **British Airways American Express Premium Plus (UK):** (Short made: `ba-companion-voucher-15k`) 1.25 Avios per £1 on purchases, no separate BA-spend rate listed, £300 annual fee, Companion Voucher after £15,000 of spend per cardmembership year. The Oct 7, 2026 cut from 1.5 per £1 and the April 2027 tier-point changes are leads only. Source: https://www.americanexpress.com/uk/credit-cards/ba-premium-plus-credit-card/ · checked 2026-11-04
 
 - **IDFC FIRST Bank (India): zero forex markup on all credit cards** since Sep 9, 2026 (the bank says this saves up to 3.5%). Whether international spending still earns reward points after Oct 26 is unresolved: the bank's notices conflict, so don't state it. Sources: https://www.idfcfirst.bank.in/content/dam/idfcfirstbank/pdf/credit-card/Credit-Card-Communication1-Sep-26.pdf · https://www.idfcfirst.bank.in/content/dam/idfcfirstbank/pdf/credit-card/Credit-Card-Communication-13-Sep-26.pdf · checked 2026-11-03
 - **Aeroplan co-brand cards (Canada and US):**
@@ -146,6 +146,7 @@ Newest first. "Checked" is the date an official page last confirmed the item.
 
 ## Ended or changed this week
 
+- **Nov 19 run:** no new verified items. **BA Premium Plus Short is made** (`ba-companion-voucher-15k`) and off the timely list. **Chase to Qantas and Cathay 1:1** (US, live Nov 18 per reports) is a lead until an official page confirms it. **UK October CPI** reported at 3.6% (lead; ONS pages still showed unpublished). **IHG Premier Select 200,000 offer ended Nov 18** (US, blog). New lead: **Amex UK Platinum Priority Pass capped from Jan 1, 2028** (20 visits under £30,000 spend; unlimited at £30,000+).
 - **Nov 18 run was quiet:** one new verified item (Southwest Priority 90,000 offer, US). **SBI fuel-fee Short is made** (`sbi-fuel-fee-cliff`) and off the timely list. **Rogers Red 1.5x Redemption Bonus ends today (Nov 18)**; don't call it a live perk. **UK October CPI** wasn't out at run time; keep 3.5% (September) until it's checked.
 - **New leads (Nov 18):** Club Eurostar reward prices up from Nov 1 (UK/Europe); Southwest offers reportedly end Dec 2 (US); Amex UK Platinum and Gold boosted offers reportedly to Jan 12, 2027.
 - **New verified items (Nov 17):** SBI Card 1% transport and fuel fees from Dec 1 (India); Canada October CPI 3.1%; Rogers Red Mastercard changes on Nov 18 (Canada).
