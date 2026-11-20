@@ -1,27 +1,32 @@
 # Research briefing
 
-Last updated: 2026-11-19 (daily research run). Re-check every figure on its official source before it goes into a Short.
+Last updated: 2026-11-20 (daily research run). Re-check every figure on its official source before it goes into a Short.
 
 ## Timely Short ideas
 
-Only four verified angles tonight. The BA Premium Plus Short is now made (`ba-companion-voucher-15k`), so it's off the list, and nothing new verified to replace it. The biggest new item, Chase adding Qantas and Cathay Pacific as 1:1 partners (US, Nov 18), is a lead until a Chase, Qantas or Cathay page confirms it; it goes to the top of this list once it does (see `research/2026-11-19.md`). Watch UK October CPI on ONS (reported 3.6%, lead), the 2027 TFSA limit, Amex Canada Fixed Points Travel (reported to end Jan 6, 2027 for Cobalt and Gold; lead), Qatar's Dec 5 Privilege Deals and the December rate decisions (RBI Dec 2-4, Fed Dec 8-9, Bank of Canada Dec 9, Bank of England Dec 17).
+Five verified angles tonight. **Correction first:** the UK cash ISA cut to £12,000 was scrapped in the Oct 28 Budget (the £20,000 cash limit stays for everyone), so the published Short `uk-cash-isa-limit-cut` is now wrong; the creator needs to review it, and the correction Short is the top idea (see `research/2026-11-20.md`). Chase adding Qantas and Cathay Pacific as 1:1 partners (US, Nov 18) is still a lead; it goes near the top once a Chase, Qantas or Cathay page confirms it. Watch the 2027 TFSA limit, Amex Canada Fixed Points Travel (reported to end Jan 6, 2027 for Cobalt and Gold; lead), Qatar's Dec 5 Privilege Deals and the December rate decisions (RBI Dec 2-4, Fed Dec 8-9, Bank of Canada Dec 9, Bank of England Dec 17).
 
-1. **(Worldwide) Qatar's monthly Avios sale and its catch.**
+1. **(UK only) The cash ISA cut is cancelled, but tax on savings goes up.**
+   - Budget 2026 (Oct 28) keeps the £20,000 cash ISA limit for everyone; the planned £12,000 limit for under-65s from April 2027 is dropped. From 6 April 2027, savings income tax is 24% basic, 44% higher, 49% additional (two points up).
+   - Angle: correct our own earlier Short honestly ("we told you the limit was falling; it isn't"), then the new catch: interest outside an ISA is taxed more, so the ISA matters more. Worked math: £1,000 of taxable interest = £240 tax at 24%. Re-check the Personal Savings Allowance on gov.uk before quoting it. Say "in the UK" on screen.
+
+   File: `research/2026-11-20.md`. **Expires 2027-04-06.**
+2. **(Worldwide) Qatar's monthly Avios sale and its catch.**
    - Qatar releases Privilege Deals around the 5th of each month: up to 25% off the Avios on Qatar-operated flights, but taxes and surcharges stay in cash, no Avios are earned and Flexi awards are excluded.
    - Only make it with one route and price confirmed on Qatar's own deals page that month. Aim for the Dec 5 release.
 
    Files: `research/2026-11-08.md`, `research/2026-11-09.md`. **Expires 2027-01-05.**
-2. **(Canada only) The Hilton card bonus you only get in month 13.**
+3. **(Canada only) The Hilton card bonus you only get in month 13.**
    - New Hilton Honors American Express Card in Canada: $150 fee; 60,000 points and a Free Night Reward after $3,000 in 3 months, plus 10,000 after $500 of spend in month 13; Gold status; offer ends Jan 11, 2027.
    - Angle: the full 70,000 needs the card past the first renewal, so the math is against two $150 fees. Say "in Canada" on screen; no recommendation to apply.
 
    File: `research/2026-11-12.md`. **Expires 2027-01-11.**
-3. **(Canada only) Your "free" hotel night now costs $3,000 of spend.**
+4. **(Canada only) Your "free" hotel night now costs $3,000 of spend.**
    - Amex Canada Marriott Bonvoy card: from Feb 9, 2027 the fee is $150 (from $120) and the annual Free Night Award needs $3,000 of spend a year ($250 a month).
    - Angle: the night stops being automatic. Status changes, the 35,000-point cap and the new no-fee Bright card are leads; check Amex's product-changes page before using them. Say "in Canada" on screen; no recommendation to apply or cancel.
 
    File: `research/2026-11-16.md`. **Expires 2027-02-09.**
-4. **(Canada only) The $20-a-month card break-even.**
+5. **(Canada only) The $20-a-month card break-even.**
    - Wealthsimple Visa Infinite+: $240 a year unless you hold $100,000 at Wealthsimple or direct-deposit $4,000 a month; 2% on everything means $12,000 of spend a year just to cover the fee.
    - Same lesson as the Rogers and SBI Shorts (fee vs earn), so vary the format (head-to-head: fee paid vs waived). Re-check Wealthsimple's page on production day. Say "in Canada" on screen; no recommendation to apply.
 
@@ -46,7 +51,7 @@ Already made, so don't repeat these unless the angle is clearly different:
 - **Savings rate vs inflation, real return** (`videos/savings-vs-inflation-real-return.mp4`).
 - **Two miles-expiry clocks, Emirates vs Aeroplan** (`videos/miles-expiry-two-clocks.mp4`).
 - **Rates turning up, what a 0.25-point rise costs** (`videos/rate-hikes-quarter-point.mp4`).
-- **UK cash ISA limit cut** (`videos/uk-cash-isa-limit-cut.mp4`).
+- **UK cash ISA limit cut** (`videos/uk-cash-isa-limit-cut.mp4`). **Now out of date:** the cut was scrapped on Oct 28; see the UK Budget item below and idea 1.
 - **Aeroplan stopovers** (`videos/aeroplan-stopover-two-trips.mp4`).
 - **Foreign transaction fees on a trip** (`videos/foreign-fee-trip-math.mp4`). The IDFC FIRST and ICICI facts below stay usable as supporting material.
 - **Aeroplan 15% off the base fare** (`videos/aeroplan-15-off-base-fare.mp4`).
@@ -59,6 +64,9 @@ Already made, so don't repeat these unless the angle is clearly different:
 ## Current facts
 
 Newest first. "Checked" is the date an official page last confirmed the item.
+
+- **UK Budget 2026 (Oct 28, 2026):** the cash ISA limit stays £20,000 for everyone from April 2027 (the £12,000 cut for under-65s is dropped; HMRC's Sep 17 policy paper on the cut is superseded). Savings income tax from 6 April 2027: 24% basic, 44% higher, 49% additional. Lifetime ISA charge to 20% and a First Time Buyer ISA are summary-only leads. Sources: https://www.gov.uk/government/news/budget-2026-breathing-space-for-today-hope-for-the-future · https://www.gov.uk/government/publications/budget-2026-overview-of-tax-legislation-and-rates-ootlar/budget-2026-overview-of-tax-legislation-and-rates-ootlar · checked 2026-11-20
+- **UK CPI, October 2026 (released Nov 18):** 3.6% (3.5% in September); CPIH 3.7%; core 2.8%; +0.5% on the month. Next release Dec 16. Source: https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026 · checked 2026-11-20
 
 - **Southwest Rapid Rewards Priority card (US):** 90,000 bonus points after $3,000 in purchases in the first 3 months; $229 annual fee; "limited-time offer" with no end date on Chase's page (a Dec 2, 2026 end and Companion Pass counting for approvals by then are blog leads). Source: https://creditcards.chase.com/travel-credit-cards/southwest/priority?CELL=6PJ4 · checked 2026-11-18
 - **SBI Card (India), from Dec 1, 2026:** 1% fee on every transportation transaction above ₹30,000 (MCC 4111, 4784, 4131); once a billing cycle's fuel spend exceeds ₹50,000 (MCC 5172, 5541, 5542, 5983), 1% on the total fuel spend. Notice dated Oct 27, 2026; cards covered not listed on the notice. Already made: `sbi-fuel-fee-cliff`. Source: https://www.sbicard.com/en/customer-notices.page · checked 2026-11-17
@@ -81,7 +89,7 @@ Newest first. "Checked" is the date an official page last confirmed the item.
 - **Inflation (latest releases):**
   - Canada: see October CPI above (3.1%).
   - US CPI-U 3.7% over 12 months to September (not seasonally adjusted). Still the latest official US 12-month figure: October's was not published (see above). https://www.bls.gov/cpi/ · checked 2026-11-08
-  - UK CPI 3.5% in September (3.1% in August), CPIH 3.6%. October (reported 3.6%, released Nov 18) not yet confirmed on ONS; keep 3.5% until it is. https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/september2026 · checked 2026-11-08
+  - UK: see October CPI above (3.6%).
 - **Qatar Airways Privilege Deals (how they work):** released generally on the 5th of each month; up to 25% off award flights; Qatar-marketed and operated flights only; origin-and-destination basis; Avios needed can vary by tier; taxes, fees and surcharges in cash; no Avios earned; no Flexi awards; not combinable with other Avios offers. The current month's routes and prices must be checked on the page itself. Sources: https://www.qatarairways.com/en-am/offers/privilege-deals.html · https://www.qatarairways.com/en-ae/Privilege-Club/fly-with-avios/special-offers.html · checked 2026-11-08
 
 - **Wealthsimple savings account (Canada):** flat 2.5% a year, calculated daily and paid monthly, no tiers, minimums or fees; protected by CIPF (eligible cash up to $1 million), not CDIC; no account or transit number, so no direct deposit into it. Source: https://www.wealthsimple.com/en-ca/learn/wealthsimple-savings-account · checked 2026-11-07
@@ -141,11 +149,11 @@ Newest first. "Checked" is the date an official page last confirmed the item.
   
   Source: https://www.chase.com/travel/guide/tips/preferred-update · checked 2026-10-30
 - **Aeroplan expiry pause ends Nov 30, 2026.** After that, the 18-month inactivity rule applies, with up to 60 days' email notice. Primary co-brand cardholders and Elite members are exempt. Sources: https://www.aircanada.com/ca/en/aco/home/aeroplan/news/points-expiry-suspended.html · https://www.aircanada.com/us/en/aco/home/aeroplan/your-aeroplan/inactivity-policy.html · checked 2026-10-30. The official news page showed nothing newer on 2026-11-15.
-- **UK cash ISA limit £12,000 for under-65s from 6 April 2027.** The overall allowance stays £20,000, and people 65 and over keep £20,000 for cash. Source: https://www.gov.uk/government/publications/reduction-in-the-cash-individual-savings-account-isa-limit/cash-individual-savings-account-isa-limit-reduction · checked 2026-10-30
 - **Qatar Privilege Club My List:** up to four adults, who must stay on the list for at least six months, and accounts must be at least 30 days old. The terms page sets no earning requirement. Source: https://www.qatarairways.com/en/Privilege-Club/terms-and-conditions/my-list.html · checked 2026-10-30
 
 ## Ended or changed this week
 
+- **Nov 20 run: UK cash ISA cut scrapped** (Budget, Oct 28): don't say the cash limit falls to £12,000; it stays £20,000. The Short `uk-cash-isa-limit-cut` is out of date and needs the creator's review. **UK savings tax rises to 24/44/49% from 6 April 2027.** **UK October CPI 3.6% is now verified.** Chase to Qantas and Cathay still a lead. The "$7,500 TFSA announced" post is a forecast; TFSA 2027 still not posted. New leads: IndusInd golf spend rule (India, Dec 3); Tembo 8% and Santander Edge 6% savers (UK).
 - **Nov 19 run:** no new verified items. **BA Premium Plus Short is made** (`ba-companion-voucher-15k`) and off the timely list. **Chase to Qantas and Cathay 1:1** (US, live Nov 18 per reports) is a lead until an official page confirms it. **UK October CPI** reported at 3.6% (lead; ONS pages still showed unpublished). **IHG Premier Select 200,000 offer ended Nov 18** (US, blog). New lead: **Amex UK Platinum Priority Pass capped from Jan 1, 2028** (20 visits under £30,000 spend; unlimited at £30,000+).
 - **Nov 18 run was quiet:** one new verified item (Southwest Priority 90,000 offer, US). **SBI fuel-fee Short is made** (`sbi-fuel-fee-cliff`) and off the timely list. **Rogers Red 1.5x Redemption Bonus ends today (Nov 18)**; don't call it a live perk. **UK October CPI** wasn't out at run time; keep 3.5% (September) until it's checked.
 - **New leads (Nov 18):** Club Eurostar reward prices up from Nov 1 (UK/Europe); Southwest offers reportedly end Dec 2 (US); Amex UK Platinum and Gold boosted offers reportedly to Jan 12, 2027.
