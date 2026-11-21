@@ -1,26 +1,26 @@
 # Research briefing
 
-Last updated: 2026-11-20 (daily research run). Re-check every figure on its official source before it goes into a Short.
+Last updated: 2026-11-21 (daily research run). Re-check every figure on its official source before it goes into a Short.
 
 ## Timely Short ideas
 
-Five verified angles tonight. **Correction first:** the UK cash ISA cut to £12,000 was scrapped in the Oct 28 Budget (the £20,000 cash limit stays for everyone), so the published Short `uk-cash-isa-limit-cut` is now wrong; the creator needs to review it, and the correction Short is the top idea (see `research/2026-11-20.md`). Chase adding Qantas and Cathay Pacific as 1:1 partners (US, Nov 18) is still a lead; it goes near the top once a Chase, Qantas or Cathay page confirms it. Watch the 2027 TFSA limit, Amex Canada Fixed Points Travel (reported to end Jan 6, 2027 for Cobalt and Gold; lead), Qatar's Dec 5 Privilege Deals and the December rate decisions (RBI Dec 2-4, Fed Dec 8-9, Bank of Canada Dec 9, Bank of England Dec 17).
+Five verified angles tonight. The UK ISA correction (`uk-cash-isa-correction-tax-rise`) and the Hilton month-13 bonus (`hilton-month-13-bonus`) are made and off the list. New tonight: World of Hyatt 2027 and the Amex UK Platinum Priority Pass cap (see `research/2026-11-21.md`). Chase to Qantas and Cathay Pacific (US) is still a lead. Watch the 2027 TFSA limit, Amex Canada Fixed Points Travel (reported end Jan 6, 2027; lead), the Aeroplan buy-points bonus (lead, to Dec 10), Qatar's Dec 5 Privilege Deals and the December rate decisions (RBI Dec 2-4, Fed Dec 8-9, Bank of Canada Dec 9, Bank of England Dec 17).
 
-1. **(UK only) The cash ISA cut is cancelled, but tax on savings goes up.**
-   - Budget 2026 (Oct 28) keeps the £20,000 cash ISA limit for everyone; the planned £12,000 limit for under-65s from April 2027 is dropped. From 6 April 2027, savings income tax is 24% basic, 44% higher, 49% additional (two points up).
-   - Angle: correct our own earlier Short honestly ("we told you the limit was falling; it isn't"), then the new catch: interest outside an ISA is taxed more, so the ISA matters more. Worked math: £1,000 of taxable interest = £240 tax at 24%. Re-check the Personal Savings Allowance on gov.uk before quoting it. Say "in the UK" on screen.
+1. **(UK only) Your 2027 spending decides your 2028 lounge access.**
+   - Amex UK Platinum (£650 fee): from Jan 1, 2028, 20 Priority Pass visits a year for the main card, 10 per supplementary card; £30,000 of eligible spend during 2027 unlocks unlimited for 2028. Other Global Lounge Collection lounges unaffected.
+   - Angle: the clock starts Jan 1, 2027; £30,000 is £2,500 a month. Different format from the Canadian lounge-cap Short (e.g. timeline or checklist, not the same compare). Say "in the UK" on screen; no recommendation to apply or cancel.
 
-   File: `research/2026-11-20.md`. **Expires 2027-04-06.**
+   File: `research/2026-11-21.md`. **Expires 2027-06-30.**
 2. **(Worldwide) Qatar's monthly Avios sale and its catch.**
    - Qatar releases Privilege Deals around the 5th of each month: up to 25% off the Avios on Qatar-operated flights, but taxes and surcharges stay in cash, no Avios are earned and Flexi awards are excluded.
    - Only make it with one route and price confirmed on Qatar's own deals page that month. Aim for the Dec 5 release.
 
    Files: `research/2026-11-08.md`, `research/2026-11-09.md`. **Expires 2027-01-05.**
-3. **(Canada only) The Hilton card bonus you only get in month 13.**
-   - New Hilton Honors American Express Card in Canada: $150 fee; 60,000 points and a Free Night Reward after $3,000 in 3 months, plus 10,000 after $500 of spend in month 13; Gold status; offer ends Jan 11, 2027.
-   - Angle: the full 70,000 needs the card past the first renewal, so the math is against two $150 fees. Say "in Canada" on screen; no recommendation to apply.
+3. **(Worldwide) Hyatt 2027: ten nights now earns something.**
+   - From Jan 1, 2027, Milestone Rewards start at 10 qualifying nights (or 20,000 Base Points), then every 10 nights to 150; new awards include a Free Parking Award and Tier-Qualifying Night Credits; awards can be stacked on one booking and are valid 365 days.
+   - Check Hyatt's enhancements chart for which award sits at 10 nights before scripting (not read tonight).
 
-   File: `research/2026-11-12.md`. **Expires 2027-01-11.**
+   File: `research/2026-11-21.md`. **Expires 2027-03-31.**
 4. **(Canada only) Your "free" hotel night now costs $3,000 of spend.**
    - Amex Canada Marriott Bonvoy card: from Feb 9, 2027 the fee is $150 (from $120) and the annual Free Night Award needs $3,000 of spend a year ($250 a month).
    - Angle: the night stops being automatic. Status changes, the 35,000-point cap and the new no-fee Bright card are leads; check Amex's product-changes page before using them. Say "in Canada" on screen; no recommendation to apply or cancel.
@@ -39,6 +39,8 @@ Waiting on verification (don't script yet):
 - **(US) Chase points to Qantas and Cathay, 1:1** — file `research/2026-11-19.md`. Strong angle once an official page confirms it.
 
 Already made, so don't repeat these unless the angle is clearly different:
+- **UK cash ISA correction and savings tax rise** (`videos/uk-cash-isa-correction-tax-rise.mp4`). The UK Budget facts below stay usable as supporting material.
+- **Hilton Canada card month-13 bonus** (`videos/hilton-month-13-bonus.mp4`). The Hilton facts below stay usable as supporting material.
 - **BA Premium Plus Companion Voucher at £15,000, UK** (`videos/ba-companion-voucher-15k.mp4`). The BA Premium Plus facts below stay usable as supporting material.
 - **SBI Card 1% fuel and transport fees, India** (`videos/sbi-fuel-fee-cliff.mp4`). The SBI facts below stay usable as supporting material.
 - **Rogers 1.6% bill-payment fee vs card earn** (`videos/rogers-card-fee-break-even.mp4`). The Rogers facts below stay usable as supporting material.
@@ -51,7 +53,7 @@ Already made, so don't repeat these unless the angle is clearly different:
 - **Savings rate vs inflation, real return** (`videos/savings-vs-inflation-real-return.mp4`).
 - **Two miles-expiry clocks, Emirates vs Aeroplan** (`videos/miles-expiry-two-clocks.mp4`).
 - **Rates turning up, what a 0.25-point rise costs** (`videos/rate-hikes-quarter-point.mp4`).
-- **UK cash ISA limit cut** (`videos/uk-cash-isa-limit-cut.mp4`). **Now out of date:** the cut was scrapped on Oct 28; see the UK Budget item below and idea 1.
+- **UK cash ISA limit cut** (`videos/uk-cash-isa-limit-cut.mp4`). **Now out of date:** the cut was scrapped on Oct 28; the correction Short is made, but the creator still needs to review the old one.
 - **Aeroplan stopovers** (`videos/aeroplan-stopover-two-trips.mp4`).
 - **Foreign transaction fees on a trip** (`videos/foreign-fee-trip-math.mp4`). The IDFC FIRST and ICICI facts below stay usable as supporting material.
 - **Aeroplan 15% off the base fare** (`videos/aeroplan-15-off-base-fare.mp4`).
@@ -65,6 +67,8 @@ Already made, so don't repeat these unless the angle is clearly different:
 
 Newest first. "Checked" is the date an official page last confirmed the item.
 
+- **Amex UK Platinum Priority Pass cap:** from Jan 1, 2028, 20 complimentary Priority Pass visits per calendar year for the main cardmember, 10 per Platinum supplementary; £30,000+ eligible spend during 2027 unlocks unlimited for 2028, resetting each Jan 1; other Global Lounge Collection lounges stay unlimited; annual fee £650; 8 pre-book entitlements for 2026-2027. Source: https://www.americanexpress.com/uk/charge-cards/platinum-card · checked 2026-11-21
+- **World of Hyatt 2027 (announced Nov 18, 2026; from Jan 1, 2027):** Milestone Rewards from 10 qualifying nights or 20,000 Base Points, then every 10 nights to 150; new awards include Tier-Qualifying Night Credits (1, 2 or 5), Free Parking Award (up to 7 nights), $30 Inclusive Collection spa credit, $200 Thompson credit, $500 premium-suite credit; eligible awards stackable on one booking; awards valid 365 days; Pay My Way mixes awards, points, cash per night; Delta milestones (linked accounts) from 20 nights or 35,000 Base Points. Which award sits at which night count not checked. Source: https://newsroom.hyatt.com/worldofhyatt2027 · checked 2026-11-21
 - **UK Budget 2026 (Oct 28, 2026):** the cash ISA limit stays £20,000 for everyone from April 2027 (the £12,000 cut for under-65s is dropped; HMRC's Sep 17 policy paper on the cut is superseded). Savings income tax from 6 April 2027: 24% basic, 44% higher, 49% additional. Lifetime ISA charge to 20% and a First Time Buyer ISA are summary-only leads. Sources: https://www.gov.uk/government/news/budget-2026-breathing-space-for-today-hope-for-the-future · https://www.gov.uk/government/publications/budget-2026-overview-of-tax-legislation-and-rates-ootlar/budget-2026-overview-of-tax-legislation-and-rates-ootlar · checked 2026-11-20
 - **UK CPI, October 2026 (released Nov 18):** 3.6% (3.5% in September); CPIH 3.7%; core 2.8%; +0.5% on the month. Next release Dec 16. Source: https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026 · checked 2026-11-20
 
@@ -84,7 +88,7 @@ Newest first. "Checked" is the date an official page last confirmed the item.
 - **IRS tax year 2027 (US), IR-2026-133, Nov 5, 2026:** standard deduction $16,600 single, $33,200 married filing jointly; 37% above $661,375 single / $793,650 joint; gift exclusion $20,000. Source: https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2027-taxpayers-continue-to-benefit-from-the-working-families-tax-cuts · checked 2026-11-12
 - **US October 2026 CPI (released Nov 10):** all items +0.4% in the month (seasonally adjusted), core +0.3%. No 12-month change published for October because October 2025 data were never collected (2025 lapse in appropriations). November CPI out Dec 10. Source: https://www.bls.gov/news.release/cpi.htm · checked 2026-11-11
 - **Bilt 2027 program updates (US), announced Oct 27, 2026:** Bilt Cash expires at month-end 12 months after earning (no year-end rollover); Flexible Bilt Cash mode (4% back in Bilt Cash) is retired on each card anniversary unless the cardholder opts out beforehand, irreversibly; hotel redemptions twice a year from Jan 1, 2027 (up to $50 Blue/Silver, $100 Gold/Platinum, $200 eligible Palladium per redemption); Palladium credits become one $600 Bilt Cash credit and Obsidian's $100 hotel credit becomes $100 Bilt Cash, both on the anniversary; Daily Rewards from Jan 15, 2027. Source: https://newsroom.biltrewards.com/2027-bilt-program-updates · checked 2026-11-10
-- **CRA 2027 limits (Canada), posted Oct 28, 2026:** RRSP dollar limit $35,390 (2028: $36,390); money purchase $36,390; DB $4,043.33; DPSP $18,195; YMPE $76,700; YAMPE $87,400. The 2027 TFSA limit is not posted yet (2026: $7,000; still absent on 2026-11-19). Sources: https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html · https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/whats-new.html · checked 2026-11-19 (TFSA only)
+- **CRA 2027 limits (Canada), posted Oct 28, 2026:** RRSP dollar limit $35,390 (2028: $36,390); money purchase $36,390; DB $4,043.33; DPSP $18,195; YMPE $76,700; YAMPE $87,400. The 2027 TFSA limit is not posted yet (2026: $7,000; still absent on 2026-11-21). Sources: https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html · https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/whats-new.html · checked 2026-11-21 (TFSA only, "what's new" page)
 
 - **Inflation (latest releases):**
   - Canada: see October CPI above (3.1%).
@@ -136,7 +140,7 @@ Newest first. "Checked" is the date an official page last confirmed the item.
   - It ends Dec 4, 2026. After that the plan base rate applies: 2.9% on Standard, up to 4% on Ultra.
   - Sign-ups are closed.
   
-  Source: https://www.revolut.com/news/revolut_launches_market_leading_5_boosted_savings_rate_for_new_uk_customers/ · checked 2026-10-31
+  Sources: https://www.revolut.com/news/revolut_launches_market_leading_5_boosted_savings_rate_for_new_uk_customers/ · https://help.revolut.com/help/app-features/savings-vaults/question-savings-promotional-campaign/ · checked 2026-11-21 (no extension shown)
 - **Bank of Canada policy rate 2.5%.** It was raised 25 bp on Oct 28, 2026. The Bank Rate is 2.75% and the deposit rate 2.45%. Next decision Dec 9. Source: https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/ · checked 2026-10-30
 - **US federal funds target 3.75-4%.** Held on Oct 28, 2026, by a 10-2 vote; both dissents were for a hike. Next meeting Dec 8-9. Source: https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm · checked 2026-10-30
 - **Amex US Membership Rewards:** each newly opened card gets its own rewards account, and cancelling the last card linked to an account forfeits its points. Source: https://www.americanexpress.com/us/rewards/membership-rewards/terms/ · checked 2026-10-30
@@ -153,8 +157,9 @@ Newest first. "Checked" is the date an official page last confirmed the item.
 
 ## Ended or changed this week
 
+- **Nov 21 run: Amex UK Platinum Priority Pass cap from 2028 is now verified** on Amex's page (was a lead). **World of Hyatt 2027 changes verified** (milestones from 10 nights, stackable awards). **ISA correction and Hilton month-13 Shorts are made.** Revolut's Dec 4 promo end unchanged; the separate 3.40% invited offer for earlier holders ended Oct 31. Chase to Qantas and Cathay still a lead; TFSA 2027 still not posted. New lead: **Aeroplan buy points up to 100% bonus until Dec 10** (targeted; blog only). **Hilton 120% points-purchase bonus ends Nov 21** (lead).
 - **Nov 20 run: UK cash ISA cut scrapped** (Budget, Oct 28): don't say the cash limit falls to £12,000; it stays £20,000. The Short `uk-cash-isa-limit-cut` is out of date and needs the creator's review. **UK savings tax rises to 24/44/49% from 6 April 2027.** **UK October CPI 3.6% is now verified.** Chase to Qantas and Cathay still a lead. The "$7,500 TFSA announced" post is a forecast; TFSA 2027 still not posted. New leads: IndusInd golf spend rule (India, Dec 3); Tembo 8% and Santander Edge 6% savers (UK).
-- **Nov 19 run:** no new verified items. **BA Premium Plus Short is made** (`ba-companion-voucher-15k`) and off the timely list. **Chase to Qantas and Cathay 1:1** (US, live Nov 18 per reports) is a lead until an official page confirms it. **UK October CPI** reported at 3.6% (lead; ONS pages still showed unpublished). **IHG Premier Select 200,000 offer ended Nov 18** (US, blog). New lead: **Amex UK Platinum Priority Pass capped from Jan 1, 2028** (20 visits under £30,000 spend; unlimited at £30,000+).
+- **Nov 19 run:** no new verified items. **BA Premium Plus Short is made** (`ba-companion-voucher-15k`) and off the timely list. **Chase to Qantas and Cathay 1:1** (US, live Nov 18 per reports) is a lead until an official page confirms it. **UK October CPI** reported at 3.6% (lead; ONS pages still showed unpublished). **IHG Premier Select 200,000 offer ended Nov 18** (US, blog). New lead: **Amex UK Platinum Priority Pass capped from Jan 1, 2028** (20 visits under £30,000 spend; unlimited at £30,000+; verified Nov 21).
 - **Nov 18 run was quiet:** one new verified item (Southwest Priority 90,000 offer, US). **SBI fuel-fee Short is made** (`sbi-fuel-fee-cliff`) and off the timely list. **Rogers Red 1.5x Redemption Bonus ends today (Nov 18)**; don't call it a live perk. **UK October CPI** wasn't out at run time; keep 3.5% (September) until it's checked.
 - **New leads (Nov 18):** Club Eurostar reward prices up from Nov 1 (UK/Europe); Southwest offers reportedly end Dec 2 (US); Amex UK Platinum and Gold boosted offers reportedly to Jan 12, 2027.
 - **New verified items (Nov 17):** SBI Card 1% transport and fuel fees from Dec 1 (India); Canada October CPI 3.1%; Rogers Red Mastercard changes on Nov 18 (Canada).
