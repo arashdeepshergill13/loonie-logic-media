@@ -1,26 +1,26 @@
 # Research briefing
 
-Last updated: 2026-11-21 (daily research run). Re-check every figure on its official source before it goes into a Short.
+Last updated: 2026-11-22 (daily research run, evening of Nov 21 Toronto time). Re-check every figure on its official source before it goes into a Short.
 
 ## Timely Short ideas
 
-Five verified angles tonight. The UK ISA correction (`uk-cash-isa-correction-tax-rise`) and the Hilton month-13 bonus (`hilton-month-13-bonus`) are made and off the list. New tonight: World of Hyatt 2027 and the Amex UK Platinum Priority Pass cap (see `research/2026-11-21.md`). Chase to Qantas and Cathay Pacific (US) is still a lead. Watch the 2027 TFSA limit, Amex Canada Fixed Points Travel (reported end Jan 6, 2027; lead), the Aeroplan buy-points bonus (lead, to Dec 10), Qatar's Dec 5 Privilege Deals and the December rate decisions (RBI Dec 2-4, Fed Dec 8-9, Bank of Canada Dec 9, Bank of England Dec 17).
+Five verified angles tonight. The Amex UK Platinum lounge Short (`amex-uk-platinum-lounge-2027-spend`) is made and off the list. New tonight: British Airways' higher tier thresholds from April 2027 (see `research/2026-11-22.md`). Chase to Qantas and Cathay Pacific (US) is still a lead. Watch the 2027 TFSA limit, Amex Canada Fixed Points Travel (reported end Jan 6, 2027; lead), the Aeroplan buy-points bonus (lead, to Dec 10), Qatar's Dec 5 Privilege Deals and the December rate decisions (RBI Dec 2-4, Fed Dec 8-9, Bank of Canada Dec 9, Bank of England Dec 17).
 
-1. **(UK only) Your 2027 spending decides your 2028 lounge access.**
-   - Amex UK Platinum (£650 fee): from Jan 1, 2028, 20 Priority Pass visits a year for the main card, 10 per supplementary card; £30,000 of eligible spend during 2027 unlocks unlimited for 2028. Other Global Lounge Collection lounges unaffected.
-   - Angle: the clock starts Jan 1, 2027; £30,000 is £2,500 a month. Different format from the Canadian lounge-cap Short (e.g. timeline or checklist, not the same compare). Say "in the UK" on screen; no recommendation to apply or cancel.
-
-   File: `research/2026-11-21.md`. **Expires 2027-06-30.**
-2. **(Worldwide) Qatar's monthly Avios sale and its catch.**
+1. **(Worldwide) Qatar's monthly Avios sale and its catch.**
    - Qatar releases Privilege Deals around the 5th of each month: up to 25% off the Avios on Qatar-operated flights, but taxes and surcharges stay in cash, no Avios are earned and Flexi awards are excluded.
    - Only make it with one route and price confirmed on Qatar's own deals page that month. Aim for the Dec 5 release.
 
    Files: `research/2026-11-08.md`, `research/2026-11-09.md`. **Expires 2027-01-05.**
-3. **(Worldwide) Hyatt 2027: ten nights now earns something.**
+2. **(Worldwide) Hyatt 2027: ten nights now earns something.**
    - From Jan 1, 2027, Milestone Rewards start at 10 qualifying nights (or 20,000 Base Points), then every 10 nights to 150; new awards include a Free Parking Award and Tier-Qualifying Night Credits; awards can be stacked on one booking and are valid 365 days.
    - Check Hyatt's enhancements chart for which award sits at 10 nights before scripting (not read tonight).
 
    File: `research/2026-11-21.md`. **Expires 2027-03-31.**
+3. **(Worldwide, BA Executive Club) BA status gets harder from April 2027.**
+   - From Apr 1, 2027: Silver 8,000 tier points (from 7,500), Gold 21,000 (from 20,000), Bronze unchanged at 3,500; milestone bonuses of 2,500 / 4,000 / 5,000 Avios at 5,750 / 12,000 / 17,000 tier points. The current year (to Mar 2027) keeps 7,500 / 20,000.
+   - Angle: Silver is about 7% harder and Gold 5% harder; show what the extra points mean in flights (check BA's per-flight tier-point table first). The Nov 25 bonus-tier-point booking deadline is a blog lead only; don't use it.
+
+   File: `research/2026-11-22.md`. **Expires 2027-04-01.**
 4. **(Canada only) Your "free" hotel night now costs $3,000 of spend.**
    - Amex Canada Marriott Bonvoy card: from Feb 9, 2027 the fee is $150 (from $120) and the annual Free Night Award needs $3,000 of spend a year ($250 a month).
    - Angle: the night stops being automatic. Status changes, the 35,000-point cap and the new no-fee Bright card are leads; check Amex's product-changes page before using them. Say "in Canada" on screen; no recommendation to apply or cancel.
@@ -33,12 +33,13 @@ Five verified angles tonight. The UK ISA correction (`uk-cash-isa-correction-tax
    File: `research/2026-11-16.md`. **Expires 2027-01-31.**
 
 Reserve (verified, not in the top list):
-- **(Canada only) 2027 limits** — RRSP $35,390 is official, TFSA still isn't (last checked Nov 19); wait for CRA's TFSA figure and make them together; file `research/2026-11-10.md`.
+- **(Canada only) 2027 limits** — RRSP $35,390 is official, TFSA still isn't (last checked Nov 21); wait for CRA's TFSA figure and make them together; file `research/2026-11-10.md`.
 
 Waiting on verification (don't script yet):
 - **(US) Chase points to Qantas and Cathay, 1:1** — file `research/2026-11-19.md`. Strong angle once an official page confirms it.
 
 Already made, so don't repeat these unless the angle is clearly different:
+- **Amex UK Platinum Priority Pass cap, 2027 spend clock** (`videos/amex-uk-platinum-lounge-2027-spend.mp4`). The Amex UK facts below stay usable as supporting material.
 - **UK cash ISA correction and savings tax rise** (`videos/uk-cash-isa-correction-tax-rise.mp4`). The UK Budget facts below stay usable as supporting material.
 - **Hilton Canada card month-13 bonus** (`videos/hilton-month-13-bonus.mp4`). The Hilton facts below stay usable as supporting material.
 - **BA Premium Plus Companion Voucher at £15,000, UK** (`videos/ba-companion-voucher-15k.mp4`). The BA Premium Plus facts below stay usable as supporting material.
@@ -67,6 +68,8 @@ Already made, so don't repeat these unless the angle is clearly different:
 
 Newest first. "Checked" is the date an official page last confirmed the item.
 
+- **British Airways Executive Club tiers from Apr 1, 2027:** Bronze 3,500, Silver 8,000, Gold 21,000 tier points (Apr 2026-Mar 2027: Silver 7,500, Gold 20,000); milestone rewards 2,500 Avios at 5,750, 4,000 at 12,000, 5,000 at 17,000. Source: https://www.britishairways.com/content/executive-club/about-the-club/tiers-and-benefits/about-tier-points · checked 2026-11-21
+- **American Express Aeroplan cards (Canada), Black Friday 2026 offer:** 50% more points on eligible purchases, up to 20,000 bonus points; apply Nov 12-30, 2026 (11:59 PM PT) through Air Canada channels; spend Nov 12, 2026-Jan 15, 2027; never held a primary Aeroplan card. Standing offers: Reserve up to 85,000, Business Reserve up to 90,000, Core up to 45,000, no end date. Source: https://www.aircanada.com/ca/en/aco/home/aeroplan/credit-cards/amex/personal.html · checked 2026-11-21
 - **Amex UK Platinum Priority Pass cap:** from Jan 1, 2028, 20 complimentary Priority Pass visits per calendar year for the main cardmember, 10 per Platinum supplementary; £30,000+ eligible spend during 2027 unlocks unlimited for 2028, resetting each Jan 1; other Global Lounge Collection lounges stay unlimited; annual fee £650; 8 pre-book entitlements for 2026-2027. Source: https://www.americanexpress.com/uk/charge-cards/platinum-card · checked 2026-11-21
 - **World of Hyatt 2027 (announced Nov 18, 2026; from Jan 1, 2027):** Milestone Rewards from 10 qualifying nights or 20,000 Base Points, then every 10 nights to 150; new awards include Tier-Qualifying Night Credits (1, 2 or 5), Free Parking Award (up to 7 nights), $30 Inclusive Collection spa credit, $200 Thompson credit, $500 premium-suite credit; eligible awards stackable on one booking; awards valid 365 days; Pay My Way mixes awards, points, cash per night; Delta milestones (linked accounts) from 20 nights or 35,000 Base Points. Which award sits at which night count not checked. Source: https://newsroom.hyatt.com/worldofhyatt2027 · checked 2026-11-21
 - **UK Budget 2026 (Oct 28, 2026):** the cash ISA limit stays £20,000 for everyone from April 2027 (the £12,000 cut for under-65s is dropped; HMRC's Sep 17 policy paper on the cut is superseded). Savings income tax from 6 April 2027: 24% basic, 44% higher, 49% additional. Lifetime ISA charge to 20% and a First Time Buyer ISA are summary-only leads. Sources: https://www.gov.uk/government/news/budget-2026-breathing-space-for-today-hope-for-the-future · https://www.gov.uk/government/publications/budget-2026-overview-of-tax-legislation-and-rates-ootlar/budget-2026-overview-of-tax-legislation-and-rates-ootlar · checked 2026-11-20
@@ -157,6 +160,7 @@ Newest first. "Checked" is the date an official page last confirmed the item.
 
 ## Ended or changed this week
 
+- **Nov 22 run: BA tier thresholds from April 2027 verified** (Silver 8,000, Gold 21,000). **Aeroplan Black Friday card offer verified** (Canada, apply by Nov 30). **Amex UK Platinum lounge Short is made.** **Hilton 120% points-purchase bonus ended Nov 21** (lead). TFSA 2027 still not posted (a "CRA announces" headline isn't backed by its own article); Chase to Qantas and Cathay still a lead. New leads: Aeroplan member Black Friday codes (Nov 19-30); Marriott 55% buy-points bonus to Nov 23; Hyatt 20% off points to Dec 21; Amex MR to LifeMiles 10% to Dec 16; BA bonus tier points cut for bookings after Nov 25 (not on BA's page).
 - **Nov 21 run: Amex UK Platinum Priority Pass cap from 2028 is now verified** on Amex's page (was a lead). **World of Hyatt 2027 changes verified** (milestones from 10 nights, stackable awards). **ISA correction and Hilton month-13 Shorts are made.** Revolut's Dec 4 promo end unchanged; the separate 3.40% invited offer for earlier holders ended Oct 31. Chase to Qantas and Cathay still a lead; TFSA 2027 still not posted. New lead: **Aeroplan buy points up to 100% bonus until Dec 10** (targeted; blog only). **Hilton 120% points-purchase bonus ends Nov 21** (lead).
 - **Nov 20 run: UK cash ISA cut scrapped** (Budget, Oct 28): don't say the cash limit falls to £12,000; it stays £20,000. The Short `uk-cash-isa-limit-cut` is out of date and needs the creator's review. **UK savings tax rises to 24/44/49% from 6 April 2027.** **UK October CPI 3.6% is now verified.** Chase to Qantas and Cathay still a lead. The "$7,500 TFSA announced" post is a forecast; TFSA 2027 still not posted. New leads: IndusInd golf spend rule (India, Dec 3); Tembo 8% and Santander Edge 6% savers (UK).
 - **Nov 19 run:** no new verified items. **BA Premium Plus Short is made** (`ba-companion-voucher-15k`) and off the timely list. **Chase to Qantas and Cathay 1:1** (US, live Nov 18 per reports) is a lead until an official page confirms it. **UK October CPI** reported at 3.6% (lead; ONS pages still showed unpublished). **IHG Premier Select 200,000 offer ended Nov 18** (US, blog). New lead: **Amex UK Platinum Priority Pass capped from Jan 1, 2028** (20 visits under £30,000 spend; unlimited at £30,000+; verified Nov 21).
