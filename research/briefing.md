@@ -4,7 +4,7 @@ Last updated: 2026-11-23 (daily research run, evening of Nov 22 Toronto time). R
 
 ## Timely Short ideas
 
-Five verified angles tonight, unchanged from Nov 22: a quiet night with no new verified items (see `research/2026-11-23.md`). The BA Silver Short (`ba-silver-8000-april-2027`) is made, so the BA tier idea is off the list and the Hyatt and Canada ideas move up. Chase to Qantas and Cathay Pacific (US) is still a lead, and so is the Flying Blue SAF XP rise on Dec 1. Watch the 2027 TFSA limit, Amex Canada Fixed Points Travel (reported end Jan 6, 2027; lead), the Aeroplan buy-points bonus (lead, to Dec 10), Qatar's Dec 5 Privilege Deals and the December rate decisions (RBI Dec 2-4, Fed Dec 8-9, Bank of Canada Dec 9, Bank of England Dec 17).
+Five verified angles tonight. It was a quiet night with no new verified items (see `research/2026-11-23.md`). The BA Silver Short (`ba-silver-8000-april-2027`) is made, so the BA tier idea is off the list; the Wealthsimple savings (CIPF, not CDIC) idea comes in at 5. Chase to Qantas and Cathay Pacific (US) is still a lead, and so is the Flying Blue SAF XP rise on Dec 1. Watch the 2027 TFSA limit, Amex Canada Fixed Points Travel (reported end Jan 6, 2027; lead), the Aeroplan buy-points bonus (lead, to Dec 10), Qatar's Dec 5 Privilege Deals and the December rate decisions (RBI Dec 2-4, Fed Dec 8-9, Bank of Canada Dec 9, Bank of England Dec 17).
 
 1. **(Worldwide) Qatar's monthly Avios sale and its catch.**
    - Qatar releases Privilege Deals around the 5th of each month: up to 25% off the Avios on Qatar-operated flights, but taxes and surcharges stay in cash, no Avios are earned and Flexi awards are excluded.
