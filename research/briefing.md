@@ -1,27 +1,22 @@
 # Research briefing
 
-Last updated: 2026-11-27 (daily research run, evening of Nov 26 Toronto time). Re-check every figure on its official source before it goes into a Short.
+Last updated: 2026-11-28 (daily research run, evening of Nov 27 Toronto time). Re-check every figure on its official source before it goes into a Short.
 
 ## Timely Short ideas
 
-Four verified angles tonight (quiet night, nothing new; see `research/2026-11-27.md`). The Aeroplan Black Friday card Short (`aeroplan-black-friday-40k-spend`) was made on Nov 26, so that idea is off the list and no fifth verified angle is strong enough to fill its slot. Chase to Qantas and Cathay Pacific (US), the Flying Blue SAF XP rise on Dec 1 and Amex Canada Fixed Points Travel ending Jan 6, 2027 are still leads; the JAL sale (book by Nov 30) is too close to make. Watch the 2027 TFSA limit, the Aeroplan buy-points bonus (lead, to Dec 10), Qatar's Dec 5 Privilege Deals and the December rate decisions (RBI Dec 2-4, Fed Dec 8-9, Bank of Canada Dec 9 at 9:45 AM ET, Bank of England Dec 17).
+Three verified angles tonight (one new verified item, the Marriott Cyber Sale, but no Short angle; see `research/2026-11-28.md`). The Canadian Marriott free-night Short (`marriott-canada-free-night-3000`) was made on Nov 27, so that idea is off the list. Chase to Qantas and Cathay Pacific (US), the Flying Blue SAF XP rise on Dec 1 and Amex Canada Fixed Points Travel ending Jan 6, 2027 are still leads; the JAL sale (book by Nov 30) is too close to make. Watch the 2027 TFSA limit, the Aeroplan buy-points bonus (lead, to Dec 10), Qatar's Dec 5 Privilege Deals and the December rate decisions (RBI Dec 2-4, Fed Dec 8-9, Bank of Canada Dec 9 at 9:45 AM ET, Bank of England Dec 17).
 
 1. **(Worldwide) Qatar's monthly Avios sale and its catch.**
    - Qatar releases Privilege Deals around the 5th of each month: up to 25% off the Avios on Qatar-operated flights, but taxes and surcharges stay in cash, no Avios are earned and Flexi awards are excluded.
    - Only make it with one route and price confirmed on Qatar's own deals page that month. Aim for the Dec 5 release.
 
    Files: `research/2026-11-08.md`, `research/2026-11-09.md`. **Expires 2027-01-05.**
-2. **(Canada only) Your "free" hotel night now costs $3,000 of spend.**
-   - Amex Canada Marriott Bonvoy card: from Feb 9, 2027 the fee is $150 (from $120) and the annual Free Night Award needs $3,000 of spend a year ($250 a month).
-   - Angle: the night stops being automatic. Status changes, the 35,000-point cap and the new no-fee Bright card are leads; check Amex's product-changes page before using them. Say "in Canada" on screen; no recommendation to apply or cancel.
-
-   File: `research/2026-11-16.md`. **Expires 2027-02-09.**
-3. **(Canada only) 2.5% savings, but not CDIC.**
+2. **(Canada only) 2.5% savings, but not CDIC.**
    - Wealthsimple's savings account pays a flat 2.5% (daily interest, paid monthly, no minimums) and is protected by CIPF up to $1 million, not CDIC, and it has no account or transit number, so no direct deposit into it.
    - Angle: what "protected" means for each scheme, with the interest math on a round balance. Re-check Wealthsimple's page on production day (last checked Nov 7; recheck before using). Say "in Canada" on screen; no recommendation to open an account.
 
    File: `research/2026-11-07.md`. **Expires 2026-12-31.**
-4. **(Aeroplan members using Uber) What stops earning on Dec 7.**
+3. **(Aeroplan members using Uber) What stops earning on Dec 7.**
    - From Dec 7, 2026: Uber Eats grocery and retail orders earn only at $40 CAD or more; UberXL drops out of Uber Premium earning; a paid Uber One annual membership can earn a 5,000-point Aeroplan Flight Reward Certificate (terms apply); the 250-point monthly bonus ends at the end of 2026.
    - Angle: a checklist Short ("three changes, one new perk"). Weaker than 1-3 (small amounts, no earn rates on the page); read the certificate terms before scripting. No markets named on the page, so don't say "in Canada" or "in the US" without checking.
 
@@ -38,6 +33,7 @@ Waiting on verification (don't script yet):
 - **(Canada only) Amex Fixed Points Travel ending Jan 6, 2027 for Cobalt, Gold Rewards, Green and other MR cards online** — files `research/2026-11-18.md`, `research/2026-11-27.md`. Strong Canada angle if Amex's own page confirms it.
 
 Already made, so don't repeat these unless the angle is clearly different:
+- **Canada Marriott Bonvoy card free night now needs $3,000 of spend** (`videos/marriott-canada-free-night-3000.mp4`, made Nov 27). The Amex Marriott Bonvoy (Canada) facts below stay usable as supporting material.
 - **Aeroplan card Black Friday bonus, the spend math (Canada)** (`videos/aeroplan-black-friday-40k-spend.mp4`, made Nov 26). Offer applications close Nov 30; the spend window runs to Jan 15, 2027.
 - **US 2027 tax, the real rate** (`videos/us-2027-tax-real-rate.mp4`, made Nov 25). The IRS 2027 figures below stay usable as supporting material.
 - **Hyatt 2027: ten nights now earns something** (`videos/hyatt-10-night-first-reward.mp4`, made Nov 24). The World of Hyatt 2027 facts below stay usable as supporting material.
@@ -72,6 +68,7 @@ Already made, so don't repeat these unless the angle is clearly different:
 
 Newest first. "Checked" is the date an official page last confirmed the item.
 
+- **Marriott Bonvoy Cyber Sale:** members save 25% booking in the app, 15% from the offer page; book by Dec 1, 2026; stays Nov 29, 2026-May 2, 2027; promo code QRI applied on the page. Markets not stated in text (URL suggests US, Canada, CALA); cancellation/prepay terms not stated. Ends Dec 1. Source: https://www.marriott.com/offers/cyber-sale-2026-hws-us-canada-cala-off-257932 · checked 2026-11-28
 - **Aeroplan and Uber, from Dec 7, 2026:** Uber One paid annual membership can earn a 5,000-point Aeroplan Flight Reward Certificate (terms apply, not read); Uber Eats grocery/retail earns only on orders of $40 CAD+; UberXL no longer eligible under Uber Premium earning; 250-point monthly three-category bonus discontinued at the end of 2026. No earn rates or markets named on the page. Source: https://www.aircanada.com/us/en/ado/home/aeroplan/news/aeroplan-and-uber-program-updates.html · checked 2026-11-26
 - **British Airways Executive Club tiers from Apr 1, 2027:** Bronze 3,500, Silver 8,000, Gold 21,000 tier points (Apr 2026-Mar 2027: Silver 7,500, Gold 20,000); milestone rewards 2,500 Avios at 5,750, 4,000 at 12,000, 5,000 at 17,000. Source: https://www.britishairways.com/content/executive-club/about-the-club/tiers-and-benefits/about-tier-points · checked 2026-11-21
 - **American Express Aeroplan cards (Canada), Black Friday 2026 offer:** 50% more points on eligible purchases, up to 20,000 bonus points; apply Nov 12-30, 2026 (11:59 PM PT) through Air Canada channels; spend Nov 12, 2026-Jan 15, 2027; never held a primary Aeroplan card. Standing offers: Reserve up to 85,000, Business Reserve up to 90,000, Core up to 45,000, no end date. Source: https://www.aircanada.com/ca/en/aco/home/aeroplan/credit-cards/amex/personal.html · checked 2026-11-21
@@ -96,7 +93,7 @@ Newest first. "Checked" is the date an official page last confirmed the item.
 - **IRS tax year 2027 (US), IR-2026-133, Nov 5, 2026:** standard deduction $16,600 single, $33,200 married filing jointly; 37% above $661,375 single / $793,650 joint; gift exclusion $20,000. Source: https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2027-taxpayers-continue-to-benefit-from-the-working-families-tax-cuts · checked 2026-11-12
 - **US October 2026 CPI (released Nov 10):** all items +0.4% in the month (seasonally adjusted), core +0.3%. No 12-month change published for October because October 2025 data were never collected (2025 lapse in appropriations). November CPI out Dec 10. Source: https://www.bls.gov/news.release/cpi.htm · checked 2026-11-11
 - **Bilt 2027 program updates (US), announced Oct 27, 2026:** Bilt Cash expires at month-end 12 months after earning (no year-end rollover); Flexible Bilt Cash mode (4% back in Bilt Cash) is retired on each card anniversary unless the cardholder opts out beforehand, irreversibly; hotel redemptions twice a year from Jan 1, 2027 (up to $50 Blue/Silver, $100 Gold/Platinum, $200 eligible Palladium per redemption); Palladium credits become one $600 Bilt Cash credit and Obsidian's $100 hotel credit becomes $100 Bilt Cash, both on the anniversary; Daily Rewards from Jan 15, 2027. Source: https://newsroom.biltrewards.com/2027-bilt-program-updates · checked 2026-11-10
-- **CRA 2027 limits (Canada), posted Oct 28, 2026:** RRSP dollar limit $35,390 (2028: $36,390); money purchase $36,390; DB $4,043.33; DPSP $18,195; YMPE $76,700; YAMPE $87,400. The 2027 TFSA limit is not posted yet (2026: $7,000; still absent on 2026-11-21). Sources: https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html · https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/whats-new.html · checked 2026-11-27 (TFSA still absent: What's new page modified 2026-11-09 has no 2027 TFSA entry; limits table last read Nov 26, modified 2026-10-28, ends at 2026)
+- **CRA 2027 limits (Canada), posted Oct 28, 2026:** RRSP dollar limit $35,390 (2028: $36,390); money purchase $36,390; DB $4,043.33; DPSP $18,195; YMPE $76,700; YAMPE $87,400. The 2027 TFSA limit is not posted yet (2026: $7,000; still absent on 2026-11-21). Sources: https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html · https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/whats-new.html · checked 2026-11-28 (TFSA still absent: What's new page modified 2026-11-09 has no 2027 TFSA entry; limits table modified 2026-10-28 ends at 2026)
 
 - **Inflation (latest releases):**
   - Canada: see October CPI above (3.1%).
@@ -160,11 +157,12 @@ Newest first. "Checked" is the date an official page last confirmed the item.
   - $100 Chase Travel hotel credit.
   
   Source: https://www.chase.com/travel/guide/tips/preferred-update · checked 2026-10-30
-- **Aeroplan expiry pause ends Nov 30, 2026.** After that, the 18-month inactivity rule applies, with up to 60 days' email notice. Primary co-brand cardholders and Elite members are exempt. Sources: https://www.aircanada.com/ca/en/aco/home/aeroplan/news/points-expiry-suspended.html · https://www.aircanada.com/us/en/aco/home/aeroplan/your-aeroplan/inactivity-policy.html · checked 2026-11-27 (pause page still says Nov 30, no extension).
+- **Aeroplan expiry pause ends Nov 30, 2026.** After that, the 18-month inactivity rule applies, with up to 60 days' email notice. Primary co-brand cardholders and Elite members are exempt. Sources: https://www.aircanada.com/ca/en/aco/home/aeroplan/news/points-expiry-suspended.html · https://www.aircanada.com/us/en/aco/home/aeroplan/your-aeroplan/inactivity-policy.html · checked 2026-11-28 (pause page still says Nov 30, no extension).
 - **Qatar Privilege Club My List:** up to four adults, who must stay on the list for at least six months, and accounts must be at least 30 days old. The terms page sets no earning requirement. Source: https://www.qatarairways.com/en/Privilege-Club/terms-and-conditions/my-list.html · checked 2026-10-30
 
 ## Ended or changed this week
 
+- **Nov 28 run: one new verified item, Marriott Bonvoy Cyber Sale** (25% in the app / 15% otherwise, book by Dec 1, stays to May 2, 2027; no Short angle). Canadian Marriott free-night Short is made (`marriott-canada-free-night-3000`). TFSA 2027 still not announced (CRA rechecked Nov 27; Money.ca's $7,500 is a projection). Aeroplan expiry pause still ends Nov 30; Aeroplan news index has nothing after Nov 25. Amex Canada Fixed Points Travel page couldn't be fetched. **Ending soon: Aeroplan expiry pause and Amex Aeroplan Black Friday applications (Nov 30); JAL award sale (lead, Nov 30); Marriott Cyber Sale (Dec 1); Revolut UK 5% boosted rate (Dec 4).**
 - **Nov 27 run: quiet, no new verified items or leads.** Aeroplan Black Friday card Short is made (`aeroplan-black-friday-40k-spend`). TFSA 2027 still not announced (CRA What's new rechecked Nov 26). Aeroplan expiry pause still ends Nov 30 (rechecked); Aeroplan news index has nothing after the Nov 25 Uber item. Chase to Qantas and Cathay, the Flying Blue Dec 1 SAF XP rise and Amex Canada Fixed Points Travel ending Jan 6, 2027 are still leads. **Ending this weekend: Aeroplan expiry pause and the Amex Aeroplan Black Friday application window (both Nov 30); JAL award sale (lead, Nov 30).**
 - **Nov 26 run: one new verified item, Aeroplan-Uber changes on Dec 7.** US 2027 tax Short is made (`us-2027-tax-real-rate`). TFSA 2027 still not announced (CRA rechecked Nov 25). Aeroplan expiry pause still ends Nov 30; Revolut's Dec 4 end unchanged. Chase to Qantas and Cathay and the Flying Blue Dec 1 SAF XP rise are still leads. New lead: JAL award sale, book by Nov 30. The Avianca "Black Friday" sale in search is 2025's (expired).
 - **Nov 25 run: quiet, no new verified items.** Hyatt 10-night Short is made (`hyatt-10-night-first-reward`). TFSA 2027 still not announced (CRA limits table and What's new rechecked Nov 24). Cobalt $30,000 eats-and-drinks cap rechecked: long-standing, not new. Chase to Qantas and Cathay and the Flying Blue Dec 1 SAF XP rise (reported €15 per XP) are still leads. **Amex UK to Hilton 40% transfer bonus ended Nov 24** (lead). **BA bonus tier points cut for bookings after Nov 25** (lead, not on BA's page). **Aeroplan Black Friday card offer (Canada) and the Aeroplan expiry pause both end Nov 30.**
